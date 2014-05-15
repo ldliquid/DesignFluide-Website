@@ -15,7 +15,6 @@ html{color:#000;background:#FFF}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre
 	width:50%;	
 	padding-left:1px;
 	padding-right:10px;
-	
 }
 
 body{
@@ -24,33 +23,33 @@ body{
 	font-family: 'linux_libertine_mono_omono', courier new, monospace;
 }
 
-.chapitre{
-	display:none;
-}
 
-.chapitre, nav {
-	min-height:100vh;
+#solide .chapitre, nav {
+/*	min-height:100vh;*/
 }
-.chapitre.current {
+#solide .chapitre.current {
 	display:block;
 }
 
-
-h1, .H1{	margin-left:0px;
+#solide h1, #solide .H1{
+    margin-left:0px;
 	color:red;	
 }
 
-h2, .H2{ margin-left:50px;
+#solide h2, #solide .H2{
+  margin-left:50px;
 }
 
-h3, .H3{ margin-left:100px;
+#solide h3, #solide .H3{
+  margin-left:100px;
 }
 
-p{ margin-left:150px;
+#solide p{
+  margin-left:150px;
 	text-align:justify;
 }
 
-img{
+#solide img{
 	width:500px;
 	border-width:1px;
  	border-style:solid;
@@ -58,6 +57,7 @@ img{
 }
 
 /* FEUILLE DE STYLE FLUIDE */
+
 #fluide{
 	font-family: arial, sans-serif;
 	position:fixed;
@@ -69,7 +69,7 @@ img{
 	overflow-y:scroll;
 }
 
-.content{
+#fluide .content{
 	font-size:15px;	
 	padding:5px;
 	margin:5px;	
@@ -79,36 +79,36 @@ img{
 	border-color:yellow;
 }
 
-.content .text{
+#fluide .content .text{
 	height:30px;
 }
 
-.content header{	
+#fluide .content header{	
 	padding:2px;
 	cursor:pointer;
 	color:white;	
 }
 
-.content footer{	
+#fluide .content footer{	
 	padding:2px;
 }
 
 
-.content-link{	
+#fluide .content-link{	
 	background-color:yellow;
 	color:grey;	
 }
 
-.content-img{	
+#fluide .content-img{	
 	background-color:#D3D3D3;
 	color:black;	
 }
 
-.content .inner{
+#fluide .content .inner{
 	display:none;
 }
 
-.content.opened .inner{
+#fluide .content.opened .inner{
 	display:block;
 }
 

@@ -13,11 +13,11 @@
 		<div id="solide">			
 			<?php include 'solide.php'; ?>
 		</div>
-
 		<div id="fluide">	
 			<?php include 'fluide.php'; ?>
 		</div>
 	</body>	
 	<script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
+	<script type="text/javascript" src="js/cycle2.js"></script>	
 	<script type="text/javascript" src="js/main.js"></script>	
 </html>
