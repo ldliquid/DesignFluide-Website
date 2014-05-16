@@ -19,5 +19,6 @@
 	</body>	
 	<script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
 	<script type="text/javascript" src="js/cycle2.js"></script>	
+	<script type="text/javascript" src="js/easing.js"></script>	
 	<script type="text/javascript" src="js/main.js"></script>	
 </html>

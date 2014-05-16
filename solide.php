@@ -1,7 +1,7 @@
-<nav>
-  <ul>
-  </ul>
-</nav>
+<!-- Sommaire -->
+
+
+
 <div class="prev">Précédent</div>
 <div class="next">Suivant</div>
 
@@ -10,8 +10,13 @@
     data-cycle-slides=".chapitre" 
     data-cycle-prev=".prev"
     data-cycle-next=".next"
-    data-cycle-speed= 100
+    data-cycle-speed= 50
     >
+  <nav id="sommaire" class="chapitre">
+    <ul>
+    </ul>
+  </nav>
+
   <div class="chapitre" id="open-source" data-cycle-hash="open-source">
 	<h1>Open source</h1>
  
@@ -37,14 +42,37 @@
   </div><!-- Fin de la div .chapitre -->
     
   <div class="chapitre" id="web-semantique" data-cycle-hash="web-semantique">
-	<h1>Web Sémantique</h1>
- 
-	<h2>Définition</h2>
-	<h3>Troutou</h3>
+	<h1>Gros test</h1>
+ 	<h2>11</h2>
+        
+    <p>Super paragraphe sur le web sémantique.</p>
 
-	<p>Super paragraphe sur le web sémantique.</p>
-
-
+	<h2>12</h2>
+	<h3>121</h3>
+	<h3>122</h3>
+	<h3>123</h3>
+    
+    <p>Super paragraphe sur le web sémantique.</p>
   </div><!-- Fin de la div .chapitre -->
+    
+  <div class="chapitre" id="flute" data-cycle-hash="flute">
+	<h1>Flute</h1>
+ 	<h2>Cool</h2>
+        
+    <p>Super paragraphe sur le web sémantique.</p>
+
+	<h2>12</h2>
+    <p>Super paragraphe sur le web sémantique.</p>
+	<h3>121</h3>
+    <p>Super paragraphe sur le web sémantique.</p>
+	<h3>122</h3>
+    <p>Super paragraphe sur le web sémantique.</p>
+    <p>Super paragraphe sur le web sémantique.</p>
+    <p>Super paragraphe sur le web sémantique.</p>
+	<h3>123</h3>
+    
+    <p>Super paragraphe sur le web sémantique.</p>
+  </div><!-- Fin de la div .chapitre -->    
+    
 </div> <!-- Fin de la div .cycle-slideshow -->
 
