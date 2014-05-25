@@ -66,5 +66,6 @@ function doBubble(bubble, posX, posY, bgCol, angle, opacity, delay){
 // Respectivement : (bulle, position x, position y, couleur du fond, angle de la bulle, opacité, délai avant création)
 
 doBubble($("#b1"), 30, 100, '#777', 0, .9, 0);
-doBubble($("#b2"), 130, 10, 'navy', -39, .6, 4000);
+doBubble($("#b2"), 130, 10, 'navy', 0, .9, 4000);
+doBubble($("#b2"), 130, 10, 'navy', 0, .9, 8000);
 

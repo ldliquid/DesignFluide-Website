@@ -1,0 +1,376 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* DEBUT FEUILLE DE STYLE */
+
+
+@font-face {
+    font-family: 'linux_libertinesemibold';
+    src: url('font/linlibertine_rzah-webfont.eot');
+    src: url('font/linlibertine_rzah-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/linlibertine_rzah-webfont.woff') format('woff'),
+         url('font/linlibertine_rzah-webfont.ttf') format('truetype'),
+         url('font/linlibertine_rzah-webfont.svg#linux_libertinesemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'whoismono';
+    src: url('font/whois-mono-webfont.eot');
+    src: url('font/whois-mono-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/whois-mono-webfont.woff') format('woff'),
+         url('font/whois-mono-webfont.ttf') format('truetype'),
+         url('font/whois-mono-webfont.svg#whoismono') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body{
+	font-size:21px;
+	font-family: 'linux_libertinesemibold', 'times', serif;
+	line-height: 135%;
+}
+
+
+/*
+@page {
+  margin-top: 1.5cm;
+  margin-bottom: 1.5cm;
+  size: 16cm 29,7cm;
+  counter-increment: page;
+  counter-reset: page 10;
+}
+*/
+
+@page :left {
+  margin-top: 1.5cm;
+  margin-bottom: 1.5cm;
+  margin-left: 6cm;
+  margin-right: 4cm;
+}
+
+@page :right {
+  margin-top: 1.5cm;
+  margin-bottom: 1.5cm;
+  margin-left: 4cm;
+  margin-right: 6cm;
+}
+
+h1{	margin-left:0px;
+	page-break-after: always;
+}
+
+
+h2{ margin-left:0px;
+}
+
+h3{ margin-left:1.2cm;
+}
+
+h4{ margin-left:2.4cm;
+}
+
+h5{ margin-left:3.6cm;
+}
+
+aside{ 
+    margin-left:4.8cm;
+    margin-bottom: 20px;
+	font-family: 'whoismono', 'courier', monospace;
+    font-size: 20px;
+    line-height: 130%;
+}
+
+h7{ margin-left:0px;
+	font-family: 'whoismono', 'courier', monospace;	
+    margin-bottom:0.35cm;
+    display:block;
+    width: 12cm;
+    font-size: 20px;
+    line-height: 130%;
+}
+
+em{ font-family: 'whoismono', 'courier', monospace;
+	margin-bottom:2px;
+}
+
+h7 em{
+  font-family: 'whoismono', 'courier', monospace;
+  font-style:oblique;
+}
+
+aside em{
+  font-family: 'whoismono', 'courier', monospace;
+  font-style:oblique;
+}
+
+
+p{ margin-left:3.6cm;
+	text-align:justify;
+	orphans:3;
+	widows:2;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	-ms-hyphens: auto;
+	-o-hyphens: auto;
+    hyphens: auto;
+}
+
+img{
+    margin-top:0.3cm;
+	width:12cm;
+    display:block;
+}
+
+.imgborder{
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+
+}
+
+.pagegrise{
+    width:100%;
+    height:20cm;
+  	page-break-after: always;
+    page-break-before: always;
+}
+
+#extra{
+    page-break-before: always;
+  
+}
+
+.production{
+    page-break-before: always;
+}
+
+#extra aside{ 
+    margin-bottom: 20px;
+}
+
+#extra h2{ 
+   padding-top: 15cm;
+  display: block;
+}
+
+#sommaire h2{
+    margin-left:0px;
+    font-size:21px;
+  	line-height: 200%;
+}
+
+#sommaire h4{
+    margin-left:1.2cm;
+    font-size:21px;
+  	line-height: 200%;
+}
+
+#sommaire h3{
+    margin-left:2.4cm;
+    font-size:21px;
+  	line-height: 200%;
+}
+
+#sommaire h5{
+    margin-left:3.6cm;
+    font-size:28px;
+  	line-height: 200%;
+}
+
+#biblio p{
+    margin-bottom:0.5cm;
+    line-height: 135%;
+    font-family: 'whoismono', 'courier', monospace;
+    text-align: left;
+}
+
+#biblio p em{
+  font-family: 'whoismono', 'courier', monospace;
+  font-style:oblique;
+}
+
+#titre p{
+  font-size:21px;
+  margin-left:0cm;
+  line-height: 160%;
+}
+
+#titre h2{
+  font-size:21px;
+  margin-left:1.3cm;
+  line-height: 160%;
+}
+
+#titre h2{
+  font-size:21px;
+  margin-left:2.6cm;
+  line-height: 160%;
+}
+
+#remerciement p{
+    margin-left:0px;
+    font-size:21px;
+  	line-height: 135%;
+    font-family: 'whoismono', 'courier', monospace;
+    text-align: left;
+}
+
+#manifeste p{
+    margin-left:0cm;
+    border: 1px solid black;
+    padding:0.3cm;
+    font-size:28px;
+  	line-height: 135%;
+    text-align: center;
+}
+
+#manifeste h2{
+    margin-left:0cm;
+    margin-bottom:0.5cm;
+    padding:0.5cm;
+    font-size:28px;
+  	line-height: 135%;
+    text-align: center;
+}
+
+.marge{
+    margin-bottom: 0px;
+}
+
+u{
+    text-decoration:none;
+    border-bottom: 1px solid black;
+}
+
+
+
+/*
+#sommaire{
+  display:none;
+}
+
+
+#espaceinternet{
+  display:none;
+}
+
+
+
+#opensource{
+  display:none;
+}
+
+
+
+#contribution{
+  display:none;
+}
+
+
+
+#meme{
+  display:none;
+}
+
+
+
+#bienscommuns{
+  display:none;
+}
+
+
+
+#websemantique{
+  display:none;
+}
+
+#metadonnees{
+  display:none;
+}
+
+
+#conclusion{
+  display:none;
+}
+
+
+#outils{
+  display:none;
+}
+
+#intro{
+  display:none;
+}
+
+#extra{
+  display:none;
+}
+
+.pagegrise{
+  display:none;
+}
+
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+

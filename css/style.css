@@ -9,15 +9,7 @@ html{color:#000;background:#FFF}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre
 }
 
 
-
 /* COMMUN */
-
-
-body{
-  font-size:15px;
-  line-height: 150%;	
-  font-family: 'linux_libertine_mono_omono', courier new, monospace;
-}
 
 .prev, .next{
   position: fixed;
@@ -34,9 +26,12 @@ body{
 /* FEUILLE DE STYLE SOLIDE */
 
 #solide{
-  width:50%;	
+  width:50%;
   padding-left:1px;
   padding-right:10px;
+  font-size: 20px;
+  line-height: 150%;
+  font-family: 'linux_libertinesemibold', 'arial';
 }
 #solide .parts{
   background: #eee;
@@ -50,28 +45,136 @@ body{
 
 #solide h1, #solide .H1{
   margin-left:0px;
-  color:red;	
+  color:red;
 }
 
-#solide h2, #solide .H2{
-  margin-left:50px;
+#open-source{
+  display:none;
 }
 
-#solide h3, #solide .H3{
-  margin-left:100px;
+/*Importe du css-print*/
+
+h1{	margin-left:0px;
 }
 
-#solide p{
-  margin-left:150px;
-  text-align:justify;
+h2{ margin-left:30px;
 }
 
-#solide img{
-  width:500px;
-  border-width:1px;
-  border-style:solid;
-  border-color:black;	
+h3{ margin-left:60px;
 }
+
+h4{ margin-left:90px;
+}
+
+h5{ margin-left:120px;
+}
+
+aside{ 
+    margin-left:180px;
+    margin-bottom: 20px;
+	font-family: 'whoismono', 'courier', monospace;
+    font-size: 18px;
+    line-height: 130%;
+}
+
+h7{ margin-left:0px;
+	font-family: 'whoismono', 'courier', monospace;	
+    margin-bottom:0.35cm;
+    display:block;
+    width: 12cm;
+    font-size: 18px;
+    line-height: 130%;
+}
+
+em{ font-family: 'whoismono', 'courier', monospace;
+	margin-bottom:2px;
+}
+
+h7 em{
+  font-family: 'whoismono', 'courier', monospace;
+  font-style:oblique;
+}
+
+aside em{
+  font-family: 'whoismono', 'courier', monospace;
+  font-style:oblique;
+}
+
+
+#solide p{ margin-left:150px;
+	text-align:justify;
+	orphans:3;
+	widows:2;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	-ms-hyphens: auto;
+	-o-hyphens: auto;
+    hyphens: auto;
+    font-family: 'linux_libertinesemibold', 'arial';
+}
+
+img{
+    margin-top:5px;
+	width:450px;
+    display:block;
+}
+
+.imgborder{
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+
+}
+
+.pagegrise{
+    width:100%;
+    height:20cm;
+  	page-break-after: always;
+    page-break-before: always;
+}
+
+
+
+#extra h2{ 
+   padding-top: 15cm;
+  display: block;
+}
+
+
+
+
+#manifeste p{
+    margin-left:0cm;
+    border: 1px solid black;
+    padding:0.3cm;
+    font-size:28px;
+  	line-height: 135%;
+    text-align: center;
+}
+
+#manifeste h2{
+    margin-left:0cm;
+    margin-bottom:0.5cm;
+    padding:0.5cm;
+    font-size:28px;
+  	line-height: 135%;
+    text-align: center;
+}
+
+
+u{
+    text-decoration:none;
+    border-bottom: 1px solid black;
+}
+
+
+
+
+
+
+
+
+
 
 /* FEUILLE DE STYLE FLUIDE */
 
@@ -82,22 +185,21 @@ body{
   right:0px;
   width:50%;
   height:100%;	
-  background-color:grey;	
+  background-color:#00ff00;	
   overflow-y:scroll;
 }
 
 #fluide .bubble{
-  font-size:20px;
+  font-size:18px;
   position:absolute;
-  padding:50px;
+  padding:20px;
   display:none;
   opacity: 0;
-  color:white;
+  color:#00ff00;
   width:300px;
-  background: #777;
+  background-image:linear-gradient(black, #00ff00);
   transform-origin: center;
-  border:2px solid yellow;
-  border-radius:400px;
+  border-radius:0px;
 }
 
 #fluide .bubble.shown{
