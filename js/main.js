@@ -39,12 +39,9 @@ $(document).ready(function () {
 
 //  Fonction création d’une bulle
 
-var fallingDuration = 100000,
-    randGo = Math.random(fallingDuration % 10);
+var fallingDuration = 1000;
 
-console.log(fallingDuration)
-
-function doBubble(bubble, posX, posY, bgCol, angle, opacity, delay){
+function doBubble(bubble, posX, posY, bgCol, angle, opacity){
   bubble.css({"top":posY+"px",
               "left":posX+"px",
               "backgroundColor":bgCol,
@@ -58,13 +55,21 @@ function doBubble(bubble, posX, posY, bgCol, angle, opacity, delay){
             bubble.removeClass('shown');
           })
   };
-  setTimeout(anim, delay);
+  setTimeout(anim, fallingDuration);
 }
 
-//  Création des bulle
+//  Création des bulles 
 
 // Respectivement : (bulle, position x, position y, couleur du fond, angle de la bulle, opacité, délai avant création)
 
-doBubble($("#b1"), 30, 100, '#777', 0, .9, 0);
-doBubble($("#b2"), 130, 10, 'navy', -39, .6, 4000);
+var bubbleParams = [
+  doBubble($("#b1"), 30, 100, '#777', 0, .9),
+  doBubble($("#b2"), 130, 10, 'navy', -39, .6),  
+  doBubble($("#b1"), 300, 100, 'red', 0, .9),
+  doBubble($("#b1"), 20, 300, 'pink', 0, .9),
+];
+
+(function(){
+    setTimeout( bubbles[Math.floor(Math.random()*bubbles.length)], 100000);
+})();
 
