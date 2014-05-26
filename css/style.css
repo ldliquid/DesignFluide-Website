@@ -11,30 +11,43 @@ html{color:#000;background:#FFF}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre
 
 /* COMMUN */
 
+
 .prev, .next{
   position: fixed;
-  bottom:0;
-  z-index: 2;
+  bottom:0px;
+  z-index: 1000;
+  background-color: #f2f2f2;  
+  font-size: 20px;
+  color:red;
+  padding:4px;
 }
 .prev{
-  left: 0;
+  left:0px;
+  width:50%;
+  cursor:pointer;
 }
 .next{
-  right: 0;
+  right:51%;
+  cursor:pointer;
+
 }
 
 /* FEUILLE DE STYLE SOLIDE */
 
-#solide{
+#solide .chapitre{
+  background-color:#f2f2f2;
   width:50%;
   padding-left:1px;
-  padding-right:10px;
+  padding-right:20px;
   font-size: 20px;
   line-height: 150%;
   font-family: 'linux_libertinesemibold', 'arial';
+  padding-top:35px;
+  
 }
+
 #solide .parts{
-  background: #eee;
+  background: #f2f2f2;
 }
 #solide .chapitre, nav {
   /*	min-height:100vh;*/
@@ -52,21 +65,49 @@ html{color:#000;background:#FFF}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre
   display:none;
 }
 
+.parts li {
+  display:none;
+}
+
+.parts li.H1{
+  display:block;
+}
+
+h1{
+  display:none;
+}
+
+.opened *{
+  display:none;
+}
+
+.opened .parts, .opened .parts li{
+  display:block;
+}
+
+.parts{
+  position:fixed;
+  top:0px;
+  left:0px;
+  padding:4px;
+  width:50%;
+  cursor:pointer;
+}
+
+
 /*Importe du css-print*/
 
-h1{	margin-left:0px;
+
+#solide h2, #solide .H2{ margin-left:30px;
 }
 
-h2{ margin-left:30px;
+#solide h3, #solide .H3{ margin-left:60px;
 }
 
-h3{ margin-left:60px;
+#solide h4, #solide .H4{ margin-left:90px;
 }
 
-h4{ margin-left:90px;
-}
-
-h5{ margin-left:120px;
+#solide h5, #solide .H5{ margin-left:120px;
 }
 
 aside{ 
@@ -168,14 +209,6 @@ u{
 }
 
 
-
-
-
-
-
-
-
-
 /* FEUILLE DE STYLE FLUIDE */
 
 #fluide{
@@ -193,6 +226,7 @@ u{
   font-size:18px;
   position:absolute;
   padding:20px;
+  padding-bottom:50px;
   display:none;
   opacity: 0;
   color:#00ff00;
@@ -211,8 +245,7 @@ u{
 
 #fluide .bubble header{	
   padding:2px;
-  cursor:pointer;
-  color:white;	
+  cursor:pointer;	
 }
 
 #fluide .bubble footer{	
