@@ -9,13 +9,13 @@
     data-cycle-prev=".prev"
     data-cycle-next=".next"
     data-cycle-speed= 50
+    data-cycle-log= "false"
     >
   <nav id="sommaire" class="chapitre">
     <ul>
     </ul>
   </nav>
-    
-    
+
 <!-- Chapitre Introduction -->
 
 <div class="chapitre" id="intro" data-cycle-hash="intro">
