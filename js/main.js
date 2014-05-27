@@ -61,7 +61,7 @@ $(document).ready(function () {
 //  Fonction création d’une bulle
 
 
-var fallingDuration = 10000;
+var fallingDuration = 18000;
 
 function doBubble(bubble, posX, posY, bgCol, angle, opacity){
   bubble.css({"top":posY+"px",
@@ -74,25 +74,25 @@ function doBubble(bubble, posX, posY, bgCol, angle, opacity){
     bubble.animate({'opacity':opacity}, 1000, 'easeOutQuad')
           .animate({'margin-top':'200px'}, fallingDuration, 'easeOutQuad')
           .animate({'opacity':'0'}, 840, 'easeOutQuad', function() {
-            bubble.removeClass('shown');
+            bubble.removeClass('shown').css('margin-top','0px');
           })
   };
-  setTimeout(anim, fallingDuration);
+  setTimeout(anim, 0);
 }
 
 //  Création des bulles
+// Respectivement : (bulle, position x, position y, couleur du fond, angle de la bulle, opacité)
+function b1(){ doBubble($("#b1"), 30, 100, '#777', 0, .9)};
+function b2(){ doBubble($("#b2"), 130, 10, 'navy', 0, .9)};
+function b3(){ doBubble($("#b3"), 300, 20, 'navy', 0, .9)};
+function b4(){ doBubble($("#b4"), 250, 300, 'navy', 0, .9)};
 
-function timer(){
-  var bubbles = new Array()
-    // Respectivement : (bulle, position x, position y, couleur du fond, angle de la bulle, opacité)
-    bubbles[0] = doBubble($("#b1"), 30, 100, '#777', 0, .9),
-    bubbles[1] = doBubble($("#b2"), 130, 10, 'navy', 0, .9),
-    bubbles[2] = doBubble($("#b3"), 300, 20, 'navy', 0, .9),
-    bubbles[3] = doBubble($("#b4"), 250, 300, 'navy', 0, .9)
+var arr = [b1, b2, b3, b4];
 
-  var randBubbles = Math.floor(Math.random()*bubbles.length)
-  bubbles[3];
-  console.log(randBubbles);
+function callRandom(arr){
+  var rand = Math.floor(Math.random() * arr.length) ;
+  console.log(rand);
+  arr[rand]();
 }
-
-setInterval("timer()", 5000);
+callRandom(arr)
+setInterval(function() { callRandom(arr) }, fallingDuration);
