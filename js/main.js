@@ -86,12 +86,15 @@ function b1(){ doBubble($("#b1"), 30, 100, '#777', 0, .9)};
 function b2(){ doBubble($("#b2"), 130, 10, 'navy', 0, .9)};
 function b3(){ doBubble($("#b3"), 300, 20, 'navy', 0, .9)};
 function b4(){ doBubble($("#b4"), 250, 300, 'navy', 0, .9)};
+function b5(){ doBubble($("#b5"), 40, 300, 'navy', 0, .9)};
+
 
 var arr = [b1, b2, b3, b4];
+
 
 function callRandom(arr){
   var rand = Math.floor(Math.random() * arr.length) ;
   arr[rand]();
 }
-callRandom(arr)
+callRandom(b5())
 setInterval(function() { callRandom(arr) }, fallingDuration);
