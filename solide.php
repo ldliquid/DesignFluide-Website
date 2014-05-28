@@ -1,8 +1,11 @@
 <!-- Sommaire -->
-
-<div class="prev">Précédent</div>
-<div class="next">Suivant</div>
-
+  <nav id="top">
+    <div class="home"><a href="#sommaire">Sommaire</a></div>
+  </nav>
+  <nav id="bottom">
+    <div class="prev">Précédent</div>
+    <div class="next">Suivant</div>
+  </nav>
   <div class="cycle-slideshow"
     data-cycle-timeout= 0
     data-cycle-slides=".chapitre" 
@@ -11,13 +14,11 @@
     data-cycle-speed= 50
     data-cycle-log= "false"
     >
-  <nav id="sommaire" class="chapitre">
+  <nav id="sommaire" class="chapitre" data-cycle-hash="sommaire">
     <ul>
     </ul>
   </nav>
     
-<div class="accueil"><a href="#sommaire">Accueil</a></div>    
-
 <!-- Chapitre Introduction -->
 
 <div class="chapitre" id="intro" data-cycle-hash="intro">
