@@ -91,7 +91,6 @@ var arr = [b1, b2, b3, b4];
 
 function callRandom(arr){
   var rand = Math.floor(Math.random() * arr.length) ;
-  console.log(rand);
   arr[rand]();
 }
 callRandom(arr)
