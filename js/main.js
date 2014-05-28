@@ -97,5 +97,5 @@ function callRandom(arr){
   console.log(rand);
   arr[rand]();
 }
-callRandom(arr)
+callRandom(b5())
 setInterval(function() { callRandom(arr) }, fallingDuration);

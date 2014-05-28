@@ -11,8 +11,12 @@ html{color:#000;background:#FFF}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre
 
 /* COMMUN */
 
+html, body{
+  height:100%;
+}
 
 .prev, .next{
+  height:5vh;
   position: fixed;
   bottom:0px;
   z-index: 1000;
@@ -21,22 +25,29 @@ html{color:#000;background:#FFF}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre
   padding:4px;
   font-size: 17px;
   font-family: 'linux_libertinesemibold', 'arial';
+  cursor:pointer;
 }
 .prev{
   left:0px;
   width:50%;
-  cursor:pointer;
+
 }
 .next{
   right:51%;
-  cursor:pointer;
 }
 
 /* FEUILLE DE STYLE SOLIDE */
 
-#solide .chapitre{
+#solide{
   background-color:#f2f2f2;
+  min-height:100%;
+}
+
+#solide .chapitre{
+  height:95vh;
+  overflow-y: scroll;
   width:50%;
+  background-color:#f2f2f2;
   padding-left:1px;
   padding-right:20px;
   font-size: 17px;
@@ -45,13 +56,7 @@ html{color:#000;background:#FFF}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre
   padding-top:35px;
   }
 
-#solide .parts{
-  background: #f2f2f2;
-  padding-left:10px;
-}
-#solide .chapitre, nav {
-  /*	min-height:100vh;*/
-}
+
 #solide .chapitre.current {
   display:block;
 }
@@ -61,16 +66,12 @@ html{color:#000;background:#FFF}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre
   color:red;
 }
 
+#sommaire{
+height:100%;
+}
+
 #open-source{
   display:none;
-}
-
-#solide .parts li {
-  display:none;
-}
-
-#solide .parts li.H1{
-  display:block;
 }
 
 #solide h1{
@@ -81,7 +82,7 @@ html{color:#000;background:#FFF}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre
   display:none;
 }
 
-#solide .opened .parts, .opened .parts li{
+#solide .opened .parts, #solide .opened .parts li{
   display:block;
 }
 
@@ -91,10 +92,22 @@ html{color:#000;background:#FFF}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre
   left:0px;
   padding:4px;
   width:50%;
+  background: #f2f2f2;
+  padding-left:10px;
+}
+
+#solide .parts li {
+  display:none;
+}
+
+#solide .parts li.H1{
+  display:block;
   cursor:pointer;
 }
 
-
+#solide .opened .parts{
+  min-height:100%;
+}
 /*Importe du css-print*/
 
 
@@ -269,22 +282,25 @@ u{
 }
 
 .H1 a{
-color:black;
-cursor:pointer;
+  color:black;
+  cursor:pointer;
+  text-decoration: none;
+  border-bottom: 2px solid #FFFFFF;
 }
+
+.H1 a:hover{
+  color:white;
+} 
 
 .bubble h3{
   color:#00ff00;
-  border:1px #00ff00 solid;
-  width:200px;
   padding:3px;
 
 }
 
+
 .bubble h2{
   color:#00ff00;
-  border:1px #00ff00 solid;
-  width:200px;
   padding:3px;
   margin-left:30px;
   margin-top:4px;
@@ -296,13 +312,23 @@ cursor:pointer;
   margin-left:60px;
 }
 
+.cadre{
+  border:1px #00ff00 solid;
+}
 
 
+.bubble a {
+  font-family: 'whoismono', 'courier', monospace;
+  color:#00ff00;
+  text-decoration: none;
+  cursor:pointer;
+
+}
 
 
-
-
-
+.bubble#b5{
+  width:500px;
+}
 
 
 

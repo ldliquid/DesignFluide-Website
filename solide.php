@@ -15,6 +15,8 @@
     <ul>
     </ul>
   </nav>
+    
+<div class="accueil"><a href="#sommaire">Accueil</a></div>    
 
 <!-- Chapitre Introduction -->
 
@@ -871,7 +873,7 @@ Les modes d'exploitation peuvent être le fait des individus eux-mêmes par rech
 
 <p>La démocratie occidentale actuelle suppose un gouvernement ouvert et le respect de la vie privée. La confiance est un concept clé de la relation entre les entreprises, le gouvernement et les citoyens. La transparence est une extension de la notion de confiance. «Cependant, comme des dénonciateurs l'ont montré, les pratiques des gouvernements sont souvent cachées sous un voile de secret et/ou des intentions cachées.»[16] Les structures de pouvoir à motivation économique fondées sur des secrets et fonctionnements cachés ne correspondent pas au principe démocratique humain et aux possibilités offertes par Internet comme l'auto-organisation ou le partage de l'information.</p>
 
-<aside>[16] Metahaven, <em>Black Transparency</em>, 2013 &ndash; <u>http://www.bureau-europa.nl/en/manifestations/black_transparency_the_right_to_know_in_the_age_of_mass_surveillance/</u> </aside>
+<aside>[16] Metahaven, <em>Black Transparency</em>, 2013 &ndash; <u>http://www.bureau-europa.nl/en/manifestations/black_transparency_the_right_to_know_ in_the_age_of_mass_surveillance/</u> </aside>
 
 <p>D'autre part, Julien Assange et Jacob Appelbaum soulignent, dans <em>Menaces sur nos vies privés</em>, la collecte des données organisée par des entreprises privées: «Il existe aussi une surveillance privée et la possibilité d'une collecte massive de données par le secteur privé. Il n'y qu'à regarder Google.»[17] Si la surveillance par les états a toujours existé, les smartphones sont devenus les mouchards les plus puissants jamais inventés. Constamment avec nous, notre utilisation des smartphones est très personnelle: nous envoyons des photos via Snapchat, nous nous déplaçons via  Google Maps, nous consultons toutes sortes de choses via des applications. Or chacune de ces actions produit des métadonnées. En déversant nos identités en ligne via un flux d'activité implicite, chaque utilisateur, sur Internet, projette une <em>ombre informationnelle</em>, un nuage de données de nos actions en ligne. En connaissant nos déplacements, le contenu que nous consultons en ligne, la fréquence, ainsi que nos échanges personnels par photo, messages privés, mails, les entreprises peuvent obtenir rapidement un portrait-robot de notre personnalité (cartographie de nos envies de consommation ou de nos prochains actes criminels).</p>
 
@@ -899,7 +901,7 @@ Les modes d'exploitation peuvent être le fait des individus eux-mêmes par rech
 
 <p>La collecte et l'utilisation des données personnelles restent aujourd'hui une menace pour la vie privée des internautes. Ainsi, nous pouvons envisager que le statut du designer puisse se rapprocher de l'activiste et ainsi dépasser la création de forme graphique pour chercher un engagement politique. C'est ce que poursuit le studio de graphistes <em>Metahaven</em> qui définissent leur pratique entre recherche et design. Ainsi, Daniel van der Velden et Vinca Kruk considèrent leur travail de designer sous la forme de critiques dans le sens où ils cherchent par leur production à refléter les implications politiques et sociales qui définissent notre société. «La structure d'Internet basée sur la transmission et l'imitation implique que les designers ne sont plus seulement capables de créer un message mais ils peuvent désormais jouer un rôle important dans les changements politiques et sociaux.»[21] Imprégné des questions de société, Metahaven a produit une série de projets engagés dans le maintien d'Internet comme espace de libertés fondé sur la neutralité ou la transparence. Sur ces questions, ils ont nourri un travail graphique et théorique, leur premier engagement a été en faveur de <em>Wikileaks</em> en produisant une identité graphique pour le mouvement. Plus récemment, ils ont organisé une exposition «Black Transparency : le droit de savoir à l'ère de la surveillance de masse»[22]. A travers des réalisations visuelles, des schémas, des vêtements, des vidéos, des interviews avec des militants, Metahaven a produit une recherche théorique et une production graphique sur les questions d'ambiguïté, de contradiction autour de la production et l'utilisation des données.</p>
 
-<aside>[21] Bureau Europa, <em>Black Transparency</em>, exposition, 2013 «The Internet as a superstructure of creation, transmission, and imitation, means designers are not only capable of creating a message but also to play an important role in catalysing political and social change.» <u>http://www.bureau-europa.nl/en/manifestations/black_transparency_the_right_to_know_in_the_age_of_mass_surveillance/</u><br>
+<aside>[21] Bureau Europa, <em>Black Transparency</em>, exposition, 2013 «The Internet as a superstructure of creation, transmission, and imitation, means designers are not only capable of creating a message but also to play an important role in catalysing political and social change.» <u>http://www.bureau-europa.nl/en/manifestations/black_transparency_the_right_to_know_ in_the_age_of_mass_surveillance/</u><br>
 [22] Metahaven, <em>Black Transparency: The right to know in the age of mass surveillance</em>, 2013 </aside>
 
 <img src="img/Mrealface.png" alt=" Mrealface" />
