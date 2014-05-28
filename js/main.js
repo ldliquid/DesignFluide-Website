@@ -61,7 +61,7 @@ $(document).ready(function () {
 //  Fonction création d’une bulle
 
 
-var fallingDuration = 18000;
+var fallingDuration = 25000;
 
 function doBubble(bubble, posX, posY, bgCol, angle, opacity){
   bubble.css({"top":posY+"px",
@@ -87,9 +87,23 @@ function b2(){ doBubble($("#b2"), 130, 10, 'navy', 0, .9)};
 function b3(){ doBubble($("#b3"), 300, 20, 'navy', 0, .9)};
 function b4(){ doBubble($("#b4"), 250, 300, 'navy', 0, .9)};
 function b5(){ doBubble($("#b5"), 40, 300, 'navy', 0, .9)};
+function b6(){ doBubble($("#b6"), 30, 100, '#777', 0, .9)};
+function b7(){ doBubble($("#b7"), 130, 10, 'navy', 0, .9)};
+function b8(){ doBubble($("#b8"), 300, 20, 'navy', 0, .9)};
+function b9(){ doBubble($("#b9"), 250, 300, 'navy', 0, .9)};
+function b10(){ doBubble($("#b10"), 40, 300, 'navy', 0, .9)};
+function b11(){ doBubble($("#b11"), 30, 100, '#777', 0, .9)};
+function b12(){ doBubble($("#b12"), 130, 10, 'navy', 0, .9)};
+function b13(){ doBubble($("#b13"), 300, 20, 'navy', 0, .9)};
+function b14(){ doBubble($("#b14"), 250, 300, 'navy', 0, .9)};
+function b15(){ doBubble($("#b15"), 40, 300, 'navy', 0, .9)};
+function b16(){ doBubble($("#b16"), 30, 100, '#777', 0, .9)};
+function b17(){ doBubble($("#b17"), 130, 10, 'navy', 0, .9)};
+function b18(){ doBubble($("#b18"), 300, 20, 'navy', 0, .9)};
+function b19(){ doBubble($("#b19"), 250, 300, 'navy', 0, .9)};
 
 
-var arr = [b1, b2, b3, b4];
+var arr = [b1, b2, b3, b4, b5, b6, b7, b8, b9, b10, b11, b12, b13, b14, b15, b16, b17, b18, b19];
 
 
 function callRandom(arr){
@@ -97,5 +111,5 @@ function callRandom(arr){
   console.log(rand);
   arr[rand]();
 }
-callRandom(b5())
-setInterval(function() { callRandom(arr) }, fallingDuration);
+callRandom(arr)
+setInterval(function() { callRandom(arr) }, 5000);
