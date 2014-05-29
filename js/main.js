@@ -16,7 +16,7 @@ $('#fluide .bubble header').click(function () {
 $(document).ready(function () {
   $("#solide h1").each(function (i) {
     var current = $(this),
-        currentID = current.parent('.chapitre').attr("id");
+        currentID = current.parent('.chap-inner').parent('.chapitre').attr("id");
     current.attr("id", "title" + i);
     $("nav ul").append("<li" + " class='" + current.prop("tagName") + "'>" + "<a href='#" + currentID + "'>" + current.html() + "</a>" + "</li>");
   });
@@ -27,7 +27,7 @@ $(document).ready(function () {
 $(document).ready(function () {
   $(".chapitre").each(function (i) {
     var chap = $(this),
-        chapTitles = chap.children("h1, h2, h3, h4");
+        chapTitles = chap.children('.chap-inner').children("h1, h2, h3, h4");
     
     chap.prepend("<ul class='parts'></ul>");
     var chapul = chap.children(".parts");
@@ -88,7 +88,6 @@ function b3(){ doBubble($("#b3"), 300, 20, 'navy', 0, .9)};
 function b4(){ doBubble($("#b4"), 250, 300, 'navy', 0, .9)};
 function b5(){ doBubble($("#b5"), 40, 300, 'navy', 0, .9)};
 
-
 var arr = [b1, b2, b3, b4];
 
 
@@ -96,5 +95,5 @@ function callRandom(arr){
   var rand = Math.floor(Math.random() * arr.length) ;
   arr[rand]();
 }
-callRandom(b5())
+callRandom(arr)
 setInterval(function() { callRandom(arr) }, fallingDuration);
