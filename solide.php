@@ -165,7 +165,7 @@
 
 <p>Le second point que je relève est qu'originellement les codes sources étaient ouverts. Comme pour les connaissances universitaires, les codes informatiques circulaient librement. Si les logiciels sont aujourd'hui privés et fermés c'est un choix qui s'est imposé par la suite avec l'apparition des ordinateurs privés. Le mouvement du logiciel libre s'est précisément formé en réaction à la fermeture des logiciels. Initialement, les logiciels sont libres du fait qu'ils sont une composante de l’ordinateur. Richard Stallman avait pour but, selon ses propres mots, de « ramener l’esprit de coopération qui avait prévalu autrefois dans la communauté hacker, quand la question de la propriété intellectuelle du code n’existait pas et que tous les codes sources s’échangeaient librement. »[5]. J'ajouterais que l'ouverture a été, dans le cas d'internet, la condition de sa réussite. De ce fait, le succès d'Internet nous montre que l'ouverture du code Informatique n'est plus une pratique marginale mais au contraire une composante fondamentale pour le développement d'objets informatiques et une pratique inhérente au numérique.</p>
 
-<aside>[5] Richard Stallman, 1984</aside> <br/><br/>
+<aside>[5] Richard Stallman, 1984</aside>
 
 <h4>c. La frontière de la technicité</h4>
 
@@ -217,8 +217,7 @@
 
 <img src="img/OSdiversite.png" alt="diversite" />
 <h7> Métaphore du logiciel libre avec l'habitat. La diversité de l'habitat personnel représente la richesse possible avec les logiciels libres et leur possible appropriation par les utilisateurs. </h7>
-<br/><br/>
-
+    
 <h4>a. Examiner, apprendre, connaitre</h4>
 
 <p>D'abord, je définirais la première étape de création comme le fait d'examiner, d'apprendre et de connaitre son média de création. Or, ce que je remarque aujourd'hui, c'est qu'en raison du passage au média numérique on ne s'intéresse plus à la connaissance de son matériau. Du fait du niveau de technicité, nous admettons d'être dépassé et nous acceptons de faire confiance à une seule entreprise privée. Nous permettons l'ignorance. C'est ici que l'Open Source m'apparait comme étant pertinent dans un processus créatif car il est possible d'examiner, d'apprendre et de connaitre ses outils open source. Toutefois, je ne souhaite pas enfermer le designer dans des problématiques techniques, je ne pense pas qu'il ait besoin d'avoir le niveau d'un ingénieur. Je crois, cependant, que le graphiste gagnerait à collaborer plus largement avec des développeurs que ce soit pour la création de sites Internet ou d'outils numériques.</p>
@@ -416,7 +415,7 @@ Eye Magazine no70, hiver 2008 «The illusion of completeness[&hellip;] The idea 
 
 <p>De la même manière que le processus collaboratif est en train de transformer l'économie, la politique, les sciences, la finance, il me semble que la création se doit de tirer son énergie de cette collaboration. Ainsi, je crois en un nouveau champ d'expérimentation possible pour le graphisme qui passe par la mutualisation des productions et la contribution. En utilisant la plateforme Github comme outils de contribution, Raphaël Bastide et Jean-Baptiste Morizot se sont réappropriés le système de <em>fork</em> de Github pour produire une typographie. Jean-Baptiste Morizot a <em>forké</em> les premières recherches de Raphaël Bastide, ce dernier n'a pas réintégré les modifications à son projet. Le deuxième <em>fork</em> de Jean-Baptiste Morizot a été intégré au projet de Raphaël Bastide qui a continué de faire évoluer la typographie une nouvelle fois <em>forké</em> par Jean-Baptiste Morizot. Cet ensemble d'interactions et de modifications prend la forme d'une arborescence qui représente leur processus de travail commun. Ainsi, la fonction de <em>fork</em> me semble être un outil intéressant à détourner pour une pratique du design graphique fluide fondée sur la collaboration.</p>
 
-<img src="img/Cstepbw.png" alt="Cstep" class="imgborder" /> <h7> Image réalisée par Raphaël Bastide pour illustrer le processus collaboratif </h7>
+<img src="img/Cstep.png" alt="Cstep" class="imgborder" /> <h7> Image réalisée par Raphaël Bastide pour illustrer le processus collaboratif </h7>
 
 <p>D'autre part, <em>FontYou</em> est une plateforme de co-création typographique en ligne. Ce site Internet offre un espace de création vectorielle sur lequel les internautes peuvent travailler collaborativement en commentant, modifiant les créations d'autres internautes mais aussi en participant directement à la création d'un caractère (développement de nouveaux caractères, graisses). Un système de rémunération collaboratif a été mis en place en fonction du degré d'implication.</p>
                   
@@ -433,9 +432,8 @@ Eye Magazine no70, hiver 2008 «The illusion of completeness[&hellip;] The idea 
 <p>Au sein de leur studio, ils ont mis en place un protocole créatif. Par exemple, pour la création d'un site Internet, ils utilisent un traitement de texte collaboratif en ligne; <em>etherpad</em> sur lequel ils codent ensemble et en temps réel le CSS (la feuille de style, la partie graphique du site internet). Une personne est en charge du temps grâce à un gong : quand elle le fait sonner, la création est figée, ils regardent ensemble le résultat puis recommencent. Les impressions d'écran ci-dessous présentent les différentes étapes de création de leur site Internet.</p>
 
 
-<img src="img/Ccss1.png" alt="Cosp1" />     
-<img src="img/Ccss2.png" alt="Cosp1" />
-<img src="img/Ccss3.png" alt="Cosp1" /> <h7> Capture d'écran des différents étapes de création du site Internet de OSP </h7>
+<img src="img/Cosp1.png" alt="Cosp1" />     
+<h7> Capture d'écran des différents étapes de création du site Internet de OSP </h7>
 
 <p>Cependant, le processus collaboratif franchit les murs de leur studio pour atteindre l'ensemble des internautes. En effet, ils utilisent le logiciel Git comme support de création collaborative. Ils diffusent leur production graphique via Git (sur leur site Internet), ce qui autorise chacun à <em>forker</em> leur travail graphique. En effet, a chaque fois qu'ils ajoutent un document à leur <em>repository</em> Git, il apparait sur leur site téléchargeable en fichier source. S'ils recherchent l'expérimentation entre eux, ils sont d'autre part intéressés pour contribuer dans l'émergence d'une communauté. Effectivement, ils envisagent le travail de graphiste différemment : ne cherchant pas à garder la source de leur travail pour eux, ils publient ou libèrent leur travail pour la communauté. Comme le révèle le nom de leur collectif, «Open Source Publishing», leur processus de travail comprend la divulgation de leurs projets, «release early, release often»: publier rapidement, publier souvent.</p>
 
@@ -717,7 +715,7 @@ En utilisant les licences <em>Creative Commons</em>, Kristine Alexanderson, a di
 <aside>[2] Hubert Guillaud, <em>Vers un nouveau monde de données</em>, 2012
 <u>http://www.internetactu.net/2012/06/01/vers-un-nouveau-monde-de-donnees/</u>
 [3] Frank van Harmelen, <u>http://www.cs.vu.nl/~frankh/</u></aside>
-<br/><br/><br/>
+<br/>
 
 <h4>b. Le web sémantique est dans sa phase Lego</h4>
 
@@ -752,7 +750,7 @@ En utilisant les licences <em>Creative Commons</em>, Kristine Alexanderson, a di
 <p>Pierre Levy, auteur du livre : <em>L'intelligence collective, pour une anthropologie du cyberespace</em> effectue des recherches depuis plusieurs années sur l'élaboration d'un métalangage le <em>ieml</em>. La sémantique se base sur des métalangages comme le <em>ieml</em>, ce sont des systèmes de coordonnées mathématiques et linguistiques. Ieml est un projet de recherche visant à créer une langue artificielle conçue pour être utilisée de manière optimale par les ordinateurs et capable d’exprimer les nuances sémantiques ou pragmatiques des langages naturels.<br/>
 Le but du web sémantique est de faire comprendre le sens des mots aux machines. Ainsi, nous passerions d'un web pour être lu à un web où les informations seraient comprises de manière <em>intelligente</em> par les ordinateurs. Par exemple, le mot <em>Casablanca</em> peut à la fois signifier une ville marocaine et un film. Si l'humain est capable en fonction du contexte de faire la différence entre les deux, l'ordinateur repère deux fois le même mot. De ce fait, le but de la sémantique est de faire comprendre aux ordinateurs le sens des mots.</p>
                   
-<br/><br/><br/>
+<br/>
 
 <h4>e. De l'Internet sous la forme d'un catalogue à un web guide.</h4>
 
@@ -807,7 +805,7 @@ Le but du web sémantique est de faire comprendre le sens des mots aux machines.
   <div class="chapitre" id="metadonnees" data-cycle-hash="metadonnees">
     <h1>Métadonnées et Données personnelles</h1>
     
-     <h2>1. Définition</h2>
+    <h2>1. Définition</h2>
 
 <p>Les données personnelles, produites par les internautes, sont collectées par des entreprises privées ou des gouvernements. «Les modes de collecte se sont particulièrement diversifiés avec les technologies numériques. Elles peuvent aller : de la collecte d'informations contenues via un formulaire rempli volontairement par les individus jusqu'à l'enregistrement de traces (habitudes de navigation, localisation géographique de l'adresse de connexion, sites consultés, relations établies avec des individus ou des réseaux &hellip;).<br/>
 Les modes d'exploitation peuvent être le fait des individus eux-mêmes par recherche d'informations à partir d'un moteur de recherche ou sur les réseaux sociaux en ligne, ou le fait d'organisations : marketing ciblé, fichage des populations par l'État, envoi massif de courriers non sollicités à caractère commercial, etc. Le modèle économique des acteurs majeurs du Web (Google, Amazon) et des réseaux sociaux (Facebook, Twitter) repose en grande partie sur l'exploitation des données personnelles des utilisateurs.»[1]</p>
@@ -844,7 +842,6 @@ Les modes d'exploitation peuvent être le fait des individus eux-mêmes par rech
 <img src="img/Mwander2.png" alt="Mwander2" />
 <h7> Wander, Site Internet qui souligne le chemin de navigation emprunté </h7>
 
-</br></br></br>
 <h4>d. L'Attention Trust</h4>
 
 <p>L'attention et le temps des consommateurs deviennent des ressources rares dans des marchés où l'offre est abondante. Herbert Simon a formulé en 1971 le concept d'économie de l'attention: «Dans un monde riche en informations, l'abondance d'informations entraîne la pénurie d'une autre ressource : la rareté devient ce qui est consommé par l'information. Ce que l'information consomme est assez évident : c'est l'attention de ses receveurs. Donc une abondance d'information crée une rareté d'attention et le besoin de répartir efficacement cette attention parmi la surabondance des sources d’informations qui peuvent la consommer».[7] L'économie de l'attention devient particulièrement présente avec l'existence du web implicite. Grace à la connaissance de l'attention de chaque internaute, l'économie de l'attention se développe vers une information ciblée ; les publicités ciblées en étant l'exemple majeur.</p>
@@ -930,5 +927,54 @@ Les modes d'exploitation peuvent être le fait des individus eux-mêmes par rech
 <p>En s’appuyant sur les informations des internautes pour créer, nous permettons au designer de produire une infinité de formes. Un design personnalisé, généré à l’aide des métadonnées permettrait une multiplication exponentielle des formes. Ainsi, le designer crée un système unique qui a une infinité de facettes différentes. Une équation très connue dans les arts graphiques est 1+1=3 soit une image plus une image équivaut à trois images. La troisième image naissant du sens formé par l'union des deux premières. Aujourd'hui, l'utilisation de données dans la création peut permettre d'atteindre l'infini : une création unique qui aurait une infinité de déclinaisons. Ainsi, l'équation deviendrait 1=∞. Cela nous permet d’envisager l'idée d'un design éclaté, fluidifié dont la forme évolue en fonction des usages de l'utilisateur. En créant une infinité de formes, nous recréons une des propriétés des liquides : celle de s'adapter à toutes les situations. Ainsi, l'utilisation de métadonnées permettrait au designer fluide de créer des formes fluides.</p>
 </div>  
     
+<!-- Chapitre Conclusion -->
+    
+  <div class="chapitre" id="conclusion" data-cycle-hash="conclusion">
+<h1>Conclusion</h1>
+<p>Qu'est-ce que le design fluide ? Le design fluide se fonde sur des formes, une pratique, une circulation, une création, une communication et une architecture fluides.</p><br/>
+
+<p>Internet étant un lieu qui possède une infinité d'espaces aux dimensions et aux caractéristiques différentes, le graphiste doit produire des formes capables de s'ajuster à cette multitude de supports. En s'inspirant de la capacité des fluides à s'adapter à toutes sortes de contenus, le design doit lui aussi développer des propriétés liquides. Le design fluide, en opposition au design solide adapté aux supports imprimés, est un design qui s'adapte aux fluctuations d'Internet.</p><br/>
+
+<p>Ensuite, je considère que la pratique du design graphique doit être basé sur un mouvement fluide: copier, modifier, contribuer. Ce système contributif est ancré dans une dynamique contemporaine en cohérence avec les enjeux actuels. Une organisation collaborative dans la création permettrait l'élaboration d'un écosystème créatif. Utilisant le partage comme moteur de création, il produit des formes fluides, capables d'être copiées, utilisées et modifiées. En créant du graphisme libre, le design fluide crée une matière adaptée au potentiel d’Internet et il fait de la copie une force. Fondée sur l'ouverture des sources, la création est diffusée grâce à des licences libres comme les Créatives Commons. L'utilisation de ces licences permet d'encourager une libre circulation des connaissances et de la culture et ainsi de soutenir une circulation fluide du savoir.</p><br/>
+
+<p>D'autre part, le web étant un océan de données, le design graphique, pour éviter de rester à la surface, doit générer des données liquides pour s'infiltrer dans le déluge informationnel et s'affranchir du support pour exister en tant que tel dans le cyberespace. Il utilise le système de duplication insatiable d'Internet comme système de communication. Le graphisme sous forme d'entité de création engendre la possibilité d'une communication basée sur la propagation : une communication sociale et culturelle fluide qui se diffuse par prolifération.</p><br/>
+
+<p>De plus, l’océan informationnel entrainant un décloisonnement du web, les informations existent en tant que telles et s'émancipent du support des sites Internet. Le designer fluide milite pour une utilisation intelligente des données en vue du maintien d'Internet comme espace de liberté qui peut passer par la création de connexions sémantiques entre les données. Le flux informationnel est instantanément et spécifiquement recomposé sur des structures extrêmement malléables et adaptables : une architecture fluide.</p><br/>
+
+<p>Enfin, les données personnelles pourraient être utilisées de manière créative : comme paramètre de création. En utilisant les données, il serait possible, à partir d'un projet unique, de générer une infinité de déclinaisons, une infinité de formes différentes. Les informations apportées par les données permettraient au designer de créer des formes en adéquation avec un moment, un espace, une personne. La possibilité de générer l'infinité d'une même forme, permettrait d'approcher la notion de fluidité. Les fluides étant en changement constant et capables de s'adapter à toutes les situations, nous pourrions recréer cette propriété grâce à la programmation de formes ayant des possibilités d'adaptations infinies. Le design fluide se base sur la création de formes fluides.</p><br/>
+
+<p>Le design fluide est une pratique globale qui a pour but de créer des formes liquides en s’appuyant sur un flux de partage entrainant une circulation libre des connaissances et de la culture. Il fonctionne grâce à une communication basée sur la propagation et la création d'architectures déformables.</p><br/>
+
+<p>En m’appuyant sur des enjeux spécifiques, j'ai cherché dans ce mémoire à définir le portrait type du designer graphique de demain. Cet axe de recherche m'a permis d'élaborer le cahier des charges du designer fluide. Si mon choix est personnel, un autre graphiste peut se réapproprier ce protocole de recherche pour définir sa propre vision de la création. L'évolution permanente de la société nous oblige à réactualiser nos convictions et ainsi nous encourage à continuer de repenser le design. J'invite le lecteur, dans une logique collaborative, à poursuivre la réflexion sur la question du design fluide et à l'étendre aux autres champs de la création s’il le juge utile. Est-il possible d’imaginer son application aux objets ou à l'architecture ?
+Si j’ai été assez convaincante, le lecteur peut s'approprier le profil fluide que j'ai présenté et suivre tout ou partie des points étudiés dans ce mémoire. Je résume donc les points clés du design fluide dans un manifeste.</p><br/>
+  </div>
+
+<!-- Chapitre Manifeste -->
+
+<div class="chapitre" id="manifeste" data-cycle-hash="manifeste">
+
+<h1>Manifeste</h1>
+
+<p>Le design fluide crée des formes aux propriétés liquides capables de s'adapter à tous les supports</p><br/>
+
+<p>Le design fluide donne accès aux sources de sa création en vue de participer à l'élaboration d'un écosystème créatif</p><br/>
+
+<p>Le design fluide utilise des licences libres pour encourager la libre circulation des connaissances et des créations</p><br/>
+
+<p>Le design fluide milite pour le maintien d'Internet en tant qu'espace de libertés notamment par l'utilisation d'outils libres ou par une production graphique engagée</p><br/>
+
+<p>Le design fluide subdivise sa création graphique sous forme de données en vue de s'infiltrer dans l'océan informationnel d'Internet</p><br/>
+
+<p>Le design fluide utilise la propagation comme système de communication</p><br/>
+
+<p>Le design fluide utilise des outils sémantiques pour connecter les idées entre elles et encourager le potentiel cognitif du web des données</p><br/>
+
+<p>Le design fluide crée des architectures fluides : des structures malléables, liquides, capables de supporter toutes sortes de contenus</p><br/>
+
+<p>Le design fluide utilise les métadonnées pour produire une création aux formes potentiellement infinies et ainsi adopter les propriétés des fluides</p><br/>
+                  
+</div>
+
+
 </div> <!-- Fin de la div .cycle-slideshow -->
 

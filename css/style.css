@@ -32,6 +32,7 @@ nav#bottom{
   font-size: 17px;
   font-family: 'linux_libertinesemibold', 'arial';
   cursor:pointer;
+  height:30px;
 }
 .home{
   right:52%;
@@ -47,10 +48,16 @@ nav#bottom{
 .prev{
   bottom:0px;
   left:0px;
+  background:#f2f2f2;
+  width:24%;
 }
 .next{
   bottom:0px;
-  right:52%;
+  right:50%;
+  text-align: right;
+  background:#f2f2f2;
+  width:26%;
+  margin-right:20px;
 }
 
 /* FEUILLE DE STYLE SOLIDE */
@@ -214,19 +221,19 @@ img{
 }
 
 #manifeste p{
-    margin-left:0cm;
+    margin-left:10px;
     border: 1px solid black;
     padding:0.3cm;
-    font-size:28px;
+    font-size:25px;
   	line-height: 135%;
     text-align: center;
 }
 
 #manifeste h2{
-    margin-left:0cm;
+    margin-left:10px;
     margin-bottom:0.5cm;
     padding:0.5cm;
-    font-size:28px;
+    font-size:25px;
   	line-height: 135%;
     text-align: center;
 }
@@ -302,15 +309,24 @@ u{
   display:block;
 }
 
+#sommaire .H1{
+  margin-left:60px;
+  font-size: 23px;
+  line-height: 170%;
+
+  color:red;
+}
+
 .H1 a{
   color:black;
   cursor:pointer;
   text-decoration: none;
-  border-bottom: 2px solid #FFFFFF;
+  border-bottom: 2px solid black;
 }
 
 .H1 a:hover{
-  color:white;
+  color:red;
+  border-bottom: 2px solid red;
 } 
 
 .bubble h3{
@@ -335,8 +351,17 @@ u{
 
 .cadre{
   border:1px #00ff00 solid;
+  padding:4px;
 }
 
+.cadre:hover{
+  border:1px black solid;
+  background-color: #00ff00;
+}
+
+.bubble a:hover{
+  color:black;
+}
 
 .bubble a {
   font-family: 'whoismono', 'courier', monospace;
@@ -347,9 +372,65 @@ u{
 }
 
 
-.bubble#b5{
+.bubble#b1{
+  width:300px;
+}
+.bubble#b2{
   width:500px;
 }
+.bubble#b3{
+  width:300px;
+}
+.bubble#b4{
+  width:330px;
+}
+.bubble#b5{
+  width:250px;
+}
+.bubble#b6{
+  width:200px;
+}
+.bubble#b7{
+  width:200px;
+}
+.bubble#b8{
+  width:200px;
+}
+.bubble#b9{
+  width:200px;
+}
+.bubble#b10{
+  width:220px;
+}
+.bubble#b11{
+  width:230px;
+}
+.bubble#b12{
+  width:270px;
+}
+.bubble#b13{
+  width:500px;
+}
+.bubble#b14{
+  width:500px;
+}
+.bubble#b15{
+  width:500px;
+}
+.bubble#b16{
+  width:500px;
+}
+.bubble#b17{
+  width:500px;
+}
+.bubble#b18{
+  width:500px;
+}
+.bubble#b19{
+  width:500px;
+}
+
+
 
 
 

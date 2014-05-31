@@ -82,42 +82,42 @@
 
 <div class="bubble" id="b13">
   <header><h3><span class="cadre"><a href="#espace-internet">Espace d'Internet</a></span></h3>
-<img src="img/MEM_meme-couleur.jpg" alt="Ipuckey" class="imgborder" />
+<img src="img/MEM_meme-couleur.png" alt="Ipuckey" class="imgborder" />
 </div>
 
 <div class="bubble" id="b14">
   <header><h3><span class="cadre"><a href="#open-source">Open Source</a></span></h3><h2></h2>
-<img src="img/MEM_meme-couleur2.jpg" alt="Ipuckey" class="imgborder" />
+<img src="img/MEM_meme-couleur2.png" alt="Ipuckey" class="imgborder" />
   </header>
 </div>
 
 <div class="bubble" id="b15">
   <header><h3><span class="cadre"><a href="#contribution">La contribution</a></span></h3><h2></h2>
-<img src="img/MEM_meme-couleur3.jpg" alt="Ipuckey" class="imgborder" />
+<img src="img/MEM_meme-couleur3.png" alt="Ipuckey" class="imgborder" />
   </header>
 </div>
 
 <div class="bubble" id="b16">
   <header><h3><span class="cadre"><a href="#meme">Mème Internet</a></span></h3><h2></h2>
-<img src="img/MEM_meme-couleur4.jpg" alt="Ipuckey" class="imgborder" />
+<img src="img/MEM_meme-couleur4.png" alt="Ipuckey" class="imgborder" />
   </header>
 </div>
 
 <div class="bubble" id="b17">
   <header><h3><span class="cadre"><a href="#biens-communs">Biens communs</a></span></h3><h2></h2>
-<img src="img/MEM_meme-couleur5.jpg" alt="Ipuckey" class="imgborder" />
+<img src="img/MEM_meme-couleur5.png" alt="Ipuckey" class="imgborder" />
   </header>
 </div>
 
 <div class="bubble" id="b18">
   <header><h3><span class="cadre"><a href="#web-semantique">Web sémantique</a></span></h3><h2></h2>
-<img src="img/MEM_meme-couleur6.jpg" alt="Ipuckey" class="imgborder" />
+<img src="img/MEM_meme-couleur6.png" alt="Ipuckey" class="imgborder" />
   </header>
 </div>
 
 <div class="bubble" id="b19">
   <header><h3><span class="cadre"><a href="#metadonnees">Métadonnées</a></span></h3><h2></h2>
-<img src="img/MEM_meme-couleur7.jpg" alt="Ipuckey" class="imgborder" />
+<img src="img/MEM_meme-couleur7.png" alt="Ipuckey" class="imgborder" />
   </header>
 </div>
 
