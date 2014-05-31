@@ -23,6 +23,7 @@ nav#bottom{
   position: fixed;
   bottom: 0;
   left: 0;
+  z-index: 110;
 }
 .prev, .next, .home{
   color: red;
@@ -84,6 +85,10 @@ nav#bottom{
   font-family: 'linux_libertinesemibold', 'arial';
 }
 
+#solide .chap-inner{
+  padding-bottom:24px;
+  overflow-x:hidden;
+}
 
 #solide .chapitre.current {
   display:block;
@@ -157,6 +162,8 @@ aside{
 	font-family: 'whoismono', 'courier', monospace;
     font-size: 15px;
     line-height: 130%;
+    text-overflow:ellipsis;
+    overflow:hidden;
 }
 
 h7{ margin-left:0px;
@@ -239,9 +246,14 @@ img{
 }
 
 
-u{
+aside u{
     text-decoration:none;
     border-bottom: 1px solid black;
+    display:block;
+    text-overflow:ellipsis;
+    overflow:hidden;
+    white-space:nowrap;
+    width:400px;
 }
 
 

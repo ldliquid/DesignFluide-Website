@@ -15,13 +15,16 @@
     data-cycle-log= "false"
     >
   <nav id="sommaire" class="chapitre" data-cycle-hash="sommaire">
+  <div class="chap-inner">
     <ul>
     </ul>
+  </div>  <!-- fin .chap-inner -->
   </nav>
     
 <!-- Chapitre Introduction -->
 
 <div class="chapitre" id="intro" data-cycle-hash="intro">
+  <div class="chap-inner">
     <h1>Introduction</h1>
 <p>«Changer l'espace, c'est changer notre relation au Monde et, par continuité, changer la société. Une relation systématique lie intimement espace et action, sans que l'un ou l'autre n'ait le privilège de l'initiative.» Boris Beaude</p><br/>
 
@@ -37,12 +40,13 @@
 <p>De même que le designer objet a eu une position stratégique pendant la révolution industrielle et la société de consommation du 20<sup>ème</sup> siècle, le designer graphique a aujourd'hui une position centrale dans la société de l'information. A l'ère d'Internet, la circulation des informations a été transformée par le numérique et les nouvelles technologies de la communication. Nous sommes passés de la société de consommation à la société de l'information et le graphiste, en tant que designer visuel de communication ou de culture, occupe une place stratégique dans cette révolution. Par sa connaissance des évolutions contemporaines, le designer crée un pont entre différents champs de recherches : l'art, le journalisme ou la sociologie et ainsi modèle un message pertinent pour le public. Parce que la société a changé, le design graphique doit s’adapter à cette nouvelle société. Je cherche, dans ce mémoire, à définir ce qui change le graphisme et comment ces enjeux de société influencent cette pratique.</p><br/>
 
 <p>A partir de l'étude de sept enjeux contemporains, je cherche à développer le profil du design graphique de demain. Pour chaque enjeu, je définis le terme, j’analyse ensuite sa pertinence pour finir par chercher en quoi il influence ou enrichit le design graphique. Les faits de société étudiés sont : l'espace d'internet, l'open source, la contribution, l'intelligence collective et les mèmes internet, les biens communs, le web sémantique, les métadonnées et les données personnelles. Ce protocole me permet de développer une proposition de design graphique adapté aux évolutions de notre société, je développerai cette recherche sous le terme de <em>design fluide</em>. Ainsi, qu'est-ce que le <em>design fluide</em> ?</p>
-
+  </div>  <!-- fin .chap-inner -->
   </div>    
     
 <!-- Chapitre Espace Internet -->
 
   <div class="chapitre" id="espace-internet" data-cycle-hash="espace-internet">
+    <div class="chap-inner">
     <h1>Espace Internet</h1>
     <h2>1. Définition</h2>
 
@@ -123,12 +127,14 @@
 
 <img src="img/Imthvn.png" alt="Imthvn" />
 <h7>Metahaven, <em>Il tempo del postino</em>, site Internet </h7>
-
+  </div>  <!-- fin .chap-inner -->
   </div>    
 
 <!-- Chapitre open source -->
 
   <div class="chapitre" id="open-source" data-cycle-hash="open-source">
+    <div class="chap-inner">
+
     <h1>Open source</h1>                 
     <h2>1. Définition</h2>
 
@@ -281,11 +287,14 @@ Eye Magazine no70, hiver 2008 «The illusion of completeness[&hellip;] The idea 
 <p>Le design fluide s'inspire de la culture libre, par l'expérimentation d'un part et par la diffusion libre d'autre part. Cette ouverture d'accès entraine une organisation participative ou collaborative. Nous étudierons la relation entre contribution et création dans la partie suivante.</p>
 
 <aside>[18]: OSP, <em>Why should fonts be free software?</em>, <u>http://goo.gl/n4nRKI</u> «As designers we are interested in a culture that favors exchange over property, because we understand that creativity relies on the inspiration by others and we feel more at ease with tools that are produced with the same idea in mind.»  </aside>
+  </div>  <!-- fin .chap-inner -->
   </div>
      
 <!-- Chapitre La contribution -->
     
   <div class="chapitre" id="contribution" data-cycle-hash="contribution">
+    <div class="chap-inner">
+
     <h1>La contribution</h1>
      <h2>1. Définition</h2>
 
@@ -445,12 +454,15 @@ Eye Magazine no70, hiver 2008 «The illusion of completeness[&hellip;] The idea 
                   
 <img src="img/Cosp2.png" alt="Cosp2" /> <h7> Site Internet du studio OSP </h7>
 
-<p>Ainsi, le <em>fork</em> est une fonction qui peut être développée pour la création graphique. Cette action de <em>fork</em> appliquée à la création tend à rendre le graphisme fluide en lui insufflant un mouvement participatif et collaboratif. En <em>forkant</em> le projet d'un autre, j'initie un mouvement fluide entre les contributeurs. «Inspiré et être inspiré» est une dynamique fluide dans laquelle réside la force de la création. La contribution permet, selon moi, de renouveler les enjeux du graphisme et d'apporter une richesse nouvelle qui passe notamment par un écosystème participatif. Aujourd'hui, la co-création est un processus adapté à nos modes de vie contemporains fondés sur le réseau Internet. De ce fait, j'encourage des contributions plus larges que ce soit entre des corps de métiers différents ou entre professionnels et amateurs.</p>   
+<p>Ainsi, le <em>fork</em> est une fonction qui peut être développée pour la création graphique. Cette action de <em>fork</em> appliquée à la création tend à rendre le graphisme fluide en lui insufflant un mouvement participatif et collaboratif. En <em>forkant</em> le projet d'un autre, j'initie un mouvement fluide entre les contributeurs. «Inspiré et être inspiré» est une dynamique fluide dans laquelle réside la force de la création. La contribution permet, selon moi, de renouveler les enjeux du graphisme et d'apporter une richesse nouvelle qui passe notamment par un écosystème participatif. Aujourd'hui, la co-création est un processus adapté à nos modes de vie contemporains fondés sur le réseau Internet. De ce fait, j'encourage des contributions plus larges que ce soit entre des corps de métiers différents ou entre professionnels et amateurs.</p>
+  </div>  <!-- fin .chap-inner -->
   </div>
     
 <!-- Chapitre Meme -->
     
   <div class="chapitre" id="meme" data-cycle-hash="meme">
+    <div class="chap-inner">
+
     <h1>Mème Internet et Intelligence collective</h1>
        <h2>1. Définitions</h2>
 
@@ -573,12 +585,14 @@ En revanche, l'auteur explique qu’Internet, en tant qu'espace d'interaction et
 
 <p>J'analyse le projet <em>Island in the Cloud</em> du studio Metahaven, comme la création d'une série de <em>mèmes</em> prêts à se diffuser sur le web. Ce projet est un soutien au groupe d'activistes islandais <em>IMMI</em> qui milite pour un Internet libre. Metahaven a créé une série d'images à la façon du <em>mème internet</em>, ils ont diffusé leurs images les unes après les autres sur Internet via leur <em>tumblr</em>. Metahaven n'a pas conçu un site Internet comme support fixe et unique pour ce projet. Ils ont créé des <em>mèmes</em> postés sur <em>tumblr</em> qui seront copiés, dupliqués, rebloggés de <em>tumblr</em> en <em>tumblr</em> ou de sites en sites. Leurs créations sont des entités uniques, le lien qui les unit réside dans leur ressemblance, leur mimétisme.
 Bien qu'elles soient indépendantes elles forment un tout. Si nous recherchons dans Google Image le nom du projet, l'ensemble des images est rassemblée. Je ferai le parallèle avec le <em>mème</em> <em>Heads in the freezer</em>. Le créateur du <em>mème</em> avait incité les internautes à se prendre en photo la tête dans leur congélateur et de nommer leur photo par une série de chiffres : 241543903. De ce fait si nous tapons ce mot clé sur google image nous pouvons voir tous les <em>mèmes</em> réalisés. Le support d'origine du <em>mème</em> n'a pas d'importance, ce qui compte c'est son parcours, son évolution, sa propagation. Je souhaiterais, par le graphisme fluide, expérimenter la propagation comme système de diffusion d'évènements, d'œuvres ou de connaissances.</p>
-
+  </div>  <!-- fin .chap-inner -->
   </div>
 
 <!-- Chapitre Biens communs -->
     
   <div class="chapitre" id="biens-communs" data-cycle-hash="biens-communs">
+    <div class="chap-inner">
+
     <h1>Biens Communs</h1>
     
       <h2>1. Définition</h2>
@@ -691,11 +705,14 @@ En utilisant les licences <em>Creative Commons</em>, Kristine Alexanderson, a di
 <p>Enfin, Lionel Maurel soutient une contribution créative. Là encore, le partage n'est pas perçu comme un préjudice, il y a donc dans un premier temps la volonté de légaliser le partage à but non lucratif entre les individus. Cette approche propose de créer un système de financement sur d'autres bases que celles qui existent déjà. Le but serait de reverser un financement à toutes les personnes qui créent du contenu en ligne qu'elles soient professionnelles ou amateurs. Ainsi, ne pas reverser de l'argent seulement aux professionnels mais à toute personne qui rend son contenu partageable. Cette contribution aurait pour but d'encourager la création de contenu culturel.</p><br/>
 
 <p>Le designer graphique fluide souhaite une libre circulation des connaissances et de la culture, il peut, de ce fait, licencier son travail sous licence libre et choisir dans l'éventail des <em>Creatives Commons</em>. Le design fluide fondé sur des notions de partage, promeut l'établissement d'une création numérique sous la forme d'un bien commun dont le potentiel culturel sert à l'épanouissement de la communauté.</p>
+  </div>  <!-- fin .chap-inner -->
   </div>
     
 <!-- Chapitre Web sémantique -->
     
   <div class="chapitre" id="web-semantique" data-cycle-hash="web-semantique">
+    <div class="chap-inner">
+
     <h1>Web sémantique</h1>
     
     <h2>1. Définition</h2>
@@ -713,7 +730,7 @@ En utilisant les licences <em>Creative Commons</em>, Kristine Alexanderson, a di
 <p>Comme un atome ou une cellule, une donnée est une part indivisible, elle est la plus petite entité d'information. Le contenu (page web, texte, &hellip;) que nous consultons en ligne est composé de données : l'information est scindée en une myriade de datas. Ainsi, nous sommes en train d'aller vers un «monde des données», elles deviennent l'essence de la communication et de la connaissance. Tim Berners Lee explique les évolutions d'Internet : le Web 1.0 était une plateforme pour documents, le web 2.0 est un espace pour les individus et le web 3.0 sera une plateforme pour les données.« Les données sont partout, sous forme d’énormes répertoires de données produisant elles-mêmes leurs propres données, car la façon même dont nous interrogeons ces données devient elle-même source de données.»[2] Cette multitude de datas liquides produit un océan informationnel fluide. L’extrême fluidité des corps informationnels transforme la façon dont circule l'information. En modifiant notre accès à la connaissance, de nouveaux systèmes apparaissent dans des domaines divers comme le journalisme, le marketing, la politique, la science. Tim O'Reilly affirme que si le web 2.0 est un web qui a utilisé l'intelligence collective des internautes, le web de demain sera un web qui va utiliser l'intelligence collective des données et des capteurs. «L'univers de l'information de demain sera assurément un web de données» [3] conclut Frank van Harmelen.</p>
 
 <aside>[2] Hubert Guillaud, <em>Vers un nouveau monde de données</em>, 2012
-<u>http://www.internetactu.net/2012/06/01/vers-un-nouveau-monde-de-donnees/</u>
+<u>http://www.internetactu.net/2012/06/01/vers-un-nouveau-monde-de-donnees/</u><br/>
 [3] Frank van Harmelen, <u>http://www.cs.vu.nl/~frankh/</u></aside>
 <br/>
 
@@ -797,12 +814,14 @@ Le but du web sémantique est de faire comprendre le sens des mots aux machines.
 
 <aside>[14] Hubert Guillard, <em>Vers le web implicite</em>, 2007 <u>http://www.internetactu.net/2007/07/06/vers-le-web-implicite/</u> </aside>
 
-    
+  </div>  <!-- fin .chap-inner -->
   </div>
 
 <!-- Chapitre Metadonnées -->
     
   <div class="chapitre" id="metadonnees" data-cycle-hash="metadonnees">
+    <div class="chap-inner">
+
     <h1>Métadonnées et Données personnelles</h1>
     
     <h2>1. Définition</h2>
@@ -824,8 +843,8 @@ Les modes d'exploitation peuvent être le fait des individus eux-mêmes par rech
 
 <aside>
 [2] Adam Greenfield, <em>Les matières du Design</em>, conférence, 2007<br>
-[3] Alex Iskold, <em>The Implicit Web: Last.fm, Amazon, Google, Attention Trust</em>, Read/Write Web, 2007, <u>http://readwrite.com/2007/06/12/the_implicit_web_lastfm_amazon_google#awesm=~oE9y2hNxLyzWl4</u><br>
-[4] Hubert Guillaud, <em>Le monde des données</em>, publie.net, 2011, <u>http://librairie.publie.net/fr/ebook/9782814505063/un-monde-de-donnees</u> </aside>
+[3] Alex Iskold, <em>The Implicit Web: Last.fm, Amazon, Google, Attention Trust</em>, Read/Write Web, 2007, <u>http://readwrite.com/2007/06/12/the_implicit_ web_lastfm_amazon_google#awesm=~oE9y2hNxLyzWl4</u><br>
+[4] Hubert Guillaud, <em>Le monde des données</em>, publie.net, 2011, <u>http://librairie.publie.net/fr/ebook/9782814505063/ un-monde-de-donnees</u> </aside>
 
 <h4>b.  Un média subjectif</h4>
 
@@ -836,7 +855,7 @@ Les modes d'exploitation peuvent être le fait des individus eux-mêmes par rech
 <p>Le web implicite est proche de la vision de Vannevar Bush lorsqu'il évoque la notion de sentiers, chemins («trails») qui dessinent la navigation d'un internaute. Pour lui, ce qui compte c'est notre parcours, notre chemin ; il affirme que ce parcours serait aussi important que le lien lui-même. Pierre Levy évoque l'idée de «dessiner (&hellip;) des chemins de navigation dans l'océan des données»[5]. Si le chemin a de l'importance c'est que l'activité subconsciente de l'utilisateur a de l'importance. C'est son activité dans le temps, son parcours inconscient qui donne du sens. “Nous sommes donc passés d’une toute puissance du lien hypertexte, point nécessairement nodal de développement du réseau et des services et outils associés, à une toute puissance du “parcours”, de la navigation “qui fait sens”, de la navigation “orientée” au double sens du terme"[6]. Ainsi le web implicite est proche des recherches de Vannevar Bush, «As we may think»: il fait un rapprochement entre la navigation et le fonctionnement du cerveau humain. Dans le web implicite, ce qui compte c'est le comportement, la progression d'un internaute sur Internet : le temps, les clics, les zones d'intérêts. L'activité mentale de la recherche et de la navigation n'a pas besoin d'être déclarative, elle est comprise implicitement par le navigateur.</p>
 
 <aside>[5] Pierre Levy, <em>Sphère sémantique Tome 1: Computation, cognition, économie de l'information</em>, 2011<br>
-[6] Olivier Ertzscheid,  <em>Le web implicite</em>, 2007, <u>http://affordance.typepad.com/mon_weblog/2007/06/le-web-implicit.html</u></aside></p>
+[6] Olivier Ertzscheid,  <em>Le web implicite</em>, 2007, <u>http://affordance.typepad.com/ mon_weblog/2007/06/le-web-implicit.html</u></aside></p>
 
 <img src="img/Mwander1.png" alt="Mwander1" />
 <img src="img/Mwander2.png" alt="Mwander2" />
@@ -871,7 +890,7 @@ Les modes d'exploitation peuvent être le fait des individus eux-mêmes par rech
 
 <p>La démocratie occidentale actuelle suppose un gouvernement ouvert et le respect de la vie privée. La confiance est un concept clé de la relation entre les entreprises, le gouvernement et les citoyens. La transparence est une extension de la notion de confiance. «Cependant, comme des dénonciateurs l'ont montré, les pratiques des gouvernements sont souvent cachées sous un voile de secret et/ou des intentions cachées.»[16] Les structures de pouvoir à motivation économique fondées sur des secrets et fonctionnements cachés ne correspondent pas au principe démocratique humain et aux possibilités offertes par Internet comme l'auto-organisation ou le partage de l'information.</p>
 
-<aside>[16] Metahaven, <em>Black Transparency</em>, 2013 &ndash; <u>http://www.bureau-europa.nl/en/manifestations/black_transparency_the_right_to_know_ in_the_age_of_mass_surveillance/</u> </aside>
+<aside>[16] Metahaven, <em>Black Transparency</em>, 2013 &ndash; <u>http://www.bureau-europa.nl/en/manifestations/black_transparency _the_right_to_know_ in_the_age_of_mass_surveillance/</u> </aside>
 
 <p>D'autre part, Julien Assange et Jacob Appelbaum soulignent, dans <em>Menaces sur nos vies privés</em>, la collecte des données organisée par des entreprises privées: «Il existe aussi une surveillance privée et la possibilité d'une collecte massive de données par le secteur privé. Il n'y qu'à regarder Google.»[17] Si la surveillance par les états a toujours existé, les smartphones sont devenus les mouchards les plus puissants jamais inventés. Constamment avec nous, notre utilisation des smartphones est très personnelle: nous envoyons des photos via Snapchat, nous nous déplaçons via  Google Maps, nous consultons toutes sortes de choses via des applications. Or chacune de ces actions produit des métadonnées. En déversant nos identités en ligne via un flux d'activité implicite, chaque utilisateur, sur Internet, projette une <em>ombre informationnelle</em>, un nuage de données de nos actions en ligne. En connaissant nos déplacements, le contenu que nous consultons en ligne, la fréquence, ainsi que nos échanges personnels par photo, messages privés, mails, les entreprises peuvent obtenir rapidement un portrait-robot de notre personnalité (cartographie de nos envies de consommation ou de nos prochains actes criminels).</p>
 
@@ -899,7 +918,7 @@ Les modes d'exploitation peuvent être le fait des individus eux-mêmes par rech
 
 <p>La collecte et l'utilisation des données personnelles restent aujourd'hui une menace pour la vie privée des internautes. Ainsi, nous pouvons envisager que le statut du designer puisse se rapprocher de l'activiste et ainsi dépasser la création de forme graphique pour chercher un engagement politique. C'est ce que poursuit le studio de graphistes <em>Metahaven</em> qui définissent leur pratique entre recherche et design. Ainsi, Daniel van der Velden et Vinca Kruk considèrent leur travail de designer sous la forme de critiques dans le sens où ils cherchent par leur production à refléter les implications politiques et sociales qui définissent notre société. «La structure d'Internet basée sur la transmission et l'imitation implique que les designers ne sont plus seulement capables de créer un message mais ils peuvent désormais jouer un rôle important dans les changements politiques et sociaux.»[21] Imprégné des questions de société, Metahaven a produit une série de projets engagés dans le maintien d'Internet comme espace de libertés fondé sur la neutralité ou la transparence. Sur ces questions, ils ont nourri un travail graphique et théorique, leur premier engagement a été en faveur de <em>Wikileaks</em> en produisant une identité graphique pour le mouvement. Plus récemment, ils ont organisé une exposition «Black Transparency : le droit de savoir à l'ère de la surveillance de masse»[22]. A travers des réalisations visuelles, des schémas, des vêtements, des vidéos, des interviews avec des militants, Metahaven a produit une recherche théorique et une production graphique sur les questions d'ambiguïté, de contradiction autour de la production et l'utilisation des données.</p>
 
-<aside>[21] Bureau Europa, <em>Black Transparency</em>, exposition, 2013 «The Internet as a superstructure of creation, transmission, and imitation, means designers are not only capable of creating a message but also to play an important role in catalysing political and social change.» <u>http://www.bureau-europa.nl/en/manifestations/black_transparency_the_right_to_know_ in_the_age_of_mass_surveillance/</u><br>
+<aside>[21] Bureau Europa, <em>Black Transparency</em>, exposition, 2013 «The Internet as a superstructure of creation, transmission, and imitation, means designers are not only capable of creating a message but also to play an important role in catalysing political and social change.» <u>http://www.bureau-europa.nl/ en/manifestations/  black_transparency_the_right_to_know_ in_the_age_of_mass_surveillance/</u><br>
 [22] Metahaven, <em>Black Transparency: The right to know in the age of mass surveillance</em>, 2013 </aside>
 
 <img src="img/Mrealface.png" alt=" Mrealface" />
@@ -925,6 +944,7 @@ Les modes d'exploitation peuvent être le fait des individus eux-mêmes par rech
 <p>De la même manière que le web crée un accès à l'information personnalisé, nous pourrions imaginer des interfaces graphiques individuelles. L’utilisation des métadonnées permettrait de produire des formes qui auraient un affichage différent pour chaque individu et ainsi une interface web personnalisée. Cette forme pourrait aller dans le sens du web implicite et permettre une expérience visuelle personnelle. Mais elle pourrait aussi aller à l'encontre de la personnalisation d'internet en soulignant visuellement cette pratique. Nous pouvons imaginer de rendre visible la collecte de données ciblées. Par l'utilisation des métadonnées, nous pourrions révéler ou démontrer à l'usager les informations que nous connaissons sur lui. Ainsi, trouver des formes pertinentes en fonction de l'utilisateur soit en lui plaisant, mais aussi, peut être en lui déplaisant volontairement.</p><br/>
 
 <p>En s’appuyant sur les informations des internautes pour créer, nous permettons au designer de produire une infinité de formes. Un design personnalisé, généré à l’aide des métadonnées permettrait une multiplication exponentielle des formes. Ainsi, le designer crée un système unique qui a une infinité de facettes différentes. Une équation très connue dans les arts graphiques est 1+1=3 soit une image plus une image équivaut à trois images. La troisième image naissant du sens formé par l'union des deux premières. Aujourd'hui, l'utilisation de données dans la création peut permettre d'atteindre l'infini : une création unique qui aurait une infinité de déclinaisons. Ainsi, l'équation deviendrait 1=∞. Cela nous permet d’envisager l'idée d'un design éclaté, fluidifié dont la forme évolue en fonction des usages de l'utilisateur. En créant une infinité de formes, nous recréons une des propriétés des liquides : celle de s'adapter à toutes les situations. Ainsi, l'utilisation de métadonnées permettrait au designer fluide de créer des formes fluides.</p>
+  </div>  <!-- fin .chap-inner -->
 </div>  
     
 <!-- Chapitre Conclusion -->

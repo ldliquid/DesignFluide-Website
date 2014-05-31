@@ -16,7 +16,7 @@ $('#fluide .bubble header').click(function () {
 $(document).ready(function () {
   $("#solide h1").each(function (i) {
     var current = $(this),
-        currentID = current.parent('.chapitre').attr("id");
+        currentID = current.parent('.chap-inner').parent('.chapitre').attr("id");
     current.attr("id", "title" + i);
     $("nav ul").append("<li" + " class='" + current.prop("tagName") + "'>" + "<a href='#" + currentID + "'>" + current.html() + "</a>" + "</li>");
   });
@@ -27,7 +27,7 @@ $(document).ready(function () {
 $(document).ready(function () {
   $(".chapitre").each(function (i) {
     var chap = $(this),
-        chapTitles = chap.children("h1, h2, h3, h4");
+        chapTitles = chap.children('.chap-inner').children("h1, h2, h3, h4");
     
     chap.prepend("<ul class='parts'></ul>");
     var chapul = chap.children(".parts");
@@ -84,6 +84,7 @@ function doBubble(bubble, posX, posY, angle, opacity){
 
 //  Création des bulles
 // Respectivement : (bulle, position x, position y, couleur du fond, angle de la bulle, opacité)
+
 function b1(){ doBubble($("#b1"), 30, 90, 0, .9)};
 function b2(){ doBubble($("#b2"), 130, 50, 0, .9)};
 function b3(){ doBubble($("#b3"), 15, 20, 0, .9)};
@@ -107,10 +108,10 @@ function b19(){ doBubble($("#b19"), 50, 5, 0, .9)};
 
 var arr = [b1, b2, b3, b4, b5, b6, b7, b8, b9, b10, b11, b12, b13, b14, b15, b16, b17, b18, b19];
 
-
 function callRandom(arr){
   var rand = Math.floor(Math.random() * arr.length) ;
   arr[rand]();
 }
 callRandom(arr)
 setInterval(function() { callRandom(arr) }, 20000);
+
