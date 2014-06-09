@@ -296,7 +296,6 @@ aside u{
 }
 
 #fluide .bubble{
-
   position:absolute;
   padding:50px 50px 75px 50px;
   display:none;
@@ -324,7 +323,6 @@ aside u{
   padding:2px;
 }
 
-
 #fluide .bubble-link{	
   background-color:yellow;
   color:grey;	
@@ -335,11 +333,34 @@ aside u{
   color:black;	
 }
 
-#fluide .bubble .inner{
+#fluide .bubble .comment{
   display:none;
+  margin-top:20px;
 }
 
-#fluide .bubble.opened .inner{
+#fluide .bubble .comment textarea{
+  width:80%;
+  height:90px;
+  background:black;
+  color:white;
+  border:0;
+  float:left;
+  padding:6px;
+}
+#fluide .bubble .comment button{
+  width:19%;
+  height:90px;
+  background:black;
+  color:white;
+  border:0;
+  float:right;
+}
+#fluide .bubble .comment button:hover{
+  background:#111;
+}
+
+
+#fluide .bubble.opened .comment{
   display:block;
 }
 
@@ -369,13 +390,11 @@ aside u{
 
 }
 
-
 .bubble h2{
   color:#00ff00;
   padding:3px;
   margin-left:30px;
   margin-top:4px;
-
 }
 
 .bubble p{
@@ -528,9 +547,3 @@ aside u{
 .bubble#b19{
   width:550px;
 }
-
-
-
-
-
-

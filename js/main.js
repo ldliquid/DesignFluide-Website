@@ -1,6 +1,6 @@
 //  Affichage le contenu fluide (droite) au clic sur un header
 
-$('#fluide .bubble header').click(function () {
+$('#fluide .bubble .discussion').click(function () {
   var $this = $(this);
   var box = $this.parent('.bubble');
   if (box.hasClass('opened')) {
@@ -8,6 +8,9 @@ $('#fluide .bubble header').click(function () {
   } else {
     box.addClass('opened');
   }
+})
+$('#fluide .bubble .comment button').click(function () {
+  $(this).parent(".comment").parent(".bubble").children(".discussion").click();
 })
 
 
@@ -104,7 +107,6 @@ function b16(){ doBubble($("#b16"), 80, 30, 0, .9)};
 function b17(){ doBubble($("#b17"), 30, 10, 0, .9)};
 function b18(){ doBubble($("#b18"), 73, 20, 0, .9)};
 function b19(){ doBubble($("#b19"), 50, 5, 0, .9)};
-
 
 var arr = [b1, b2, b3, b4, b5, b6, b7, b8, b9, b10, b11, b12, b13, b14, b15, b16, b17, b18, b19];
 
