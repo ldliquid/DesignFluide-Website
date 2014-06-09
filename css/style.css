@@ -481,7 +481,7 @@ aside u{
   width:400px;
 }
 .bubble#b4{
-  width:330px;
+  width:380px;
 }
 .bubble#b5{
   width:450px;
@@ -493,7 +493,7 @@ aside u{
   width:300px;
 }
 .bubble#b8{
-  width:200px;
+  width:250px;
 }
 .bubble#b9{
   width:422px;
@@ -529,8 +529,43 @@ aside u{
   width:550px;
 }
 
+#fenetre1{
+	border: 10px solid #CCC;  
+}
+
+/*About*/
+
+#about{
+  color:red;
+  cursor:pointer;
+  text-decoration: none;
+  z-index:1000;
+  position:fixed;
+  top: 10px;
+}
+
+#about:hover{
+  color:red;
+  border-bottom: 2px solid red;
+} 
 
 
+.fenetre{
+	left:50%;
+	top:10px;
+	width:595.276px;
+	height:83.5%;
+	margin-left:-345px;
+	background-color:#FFF;
+	position:fixed;
+	z-index:400;
+	overflow:auto;	
+}
 
-
+.fenetre .croix{
+	position: absolute;
+	right: 25px;
+	top: 20px;
+	cursor:pointer;
+}
 

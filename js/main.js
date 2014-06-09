@@ -61,7 +61,7 @@ $(document).ready(function () {
 //  Fonction création d’une bulle
 
 
-var fallingDuration = 500000;
+var fallingDuration = 300000;
 
 var zindex = 10;
 
@@ -97,7 +97,7 @@ function b9(){ doBubble($("#b9"), 10, 66, 0, .9)};
 function b10(){ doBubble($("#b10"), 450, 74, 0, .9)};
 function b11(){ doBubble($("#b11"), 30, 100, 0, .9)};
 function b12(){ doBubble($("#b12"), 130, 10, 0, .9)};
-function b13(){ doBubble($("#b13"), 150, 20, 0, .9)};
+function b13(){ doBubble($("#b13"), 59, 20, 0, .9)};
 function b14(){ doBubble($("#b14"), 55, 25, 0, .9)};
 function b15(){ doBubble($("#b15"), 40, 8, 0, .9)};
 function b16(){ doBubble($("#b16"), 80, 30, 0, .9)};
@@ -113,5 +113,51 @@ function callRandom(arr){
   arr[rand]();
 }
 callRandom(arr)
-setInterval(function() { callRandom(arr) }, 40000);
+setInterval(function() { callRandom(arr) }, 100000);
+
+
+
+$(".bubble").click(function(){
+  var currentZ = $(this).css("z-index");
+  var top
+  console.log(currentZ)
+  $(this).css("z-index",parseInt(currentZ)+5);
+})
+
+
+/*
+* ----------------------------------------------------------------------
+* PAGE ABOUT
+* ----------------------------------------------------------------------
+*/	
+
+
+  /* Ouverture */ 
+
+$(document).ready(
+	function(){
+
+		$('.fenetre').hide();
+
+		$('#about').click(
+			function(){
+				$('.fenetre').hide();
+				$('#fenetre1').fadeIn();
+				return false;
+            }
+
+		);
+ }
+);
+
+  /* Fermeture */ 
+
+
+
+	$('.fenetre .croix').click(
+	function(){
+		$(this).parent('.fenetre').fadeOut();
+		return false;
+	}
+);
 

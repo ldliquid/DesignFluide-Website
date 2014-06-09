@@ -1,3 +1,5 @@
+
+
 <!--
 <div class="bubble" id="b1">
   <header><h3><span class="cadre"><a href="#open-source">Open Source</a></span></h3><h2></h2>
@@ -17,7 +19,7 @@
     <span class="modifier"><a href="#open-source">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
     <span class="partager"><a href="#open-source">Partager</a></span>
-<p>Pour le <a href= "https://twitter.com/hashtag/designfluide?src=hash" target="_blank">#designfluide</a>, le code fait partie du processus créatif au même titre que l'impression #cssprint <a href= "http://stdin.fr/Works/Balsamine?action=imgtpl&G=12&upname=Balsamine_1316139743142.png" target="_blank">Identité du théatre de la balsamine</a> par OSP</p> 
+<p>Pour le <a href= "https://twitter.com/hashtag/designfluide?src=hash" target="_blank">#designfluide</a>, le code fait partie du processus créatif au même titre que l'impression. #cssprint <a href= "http://stdin.fr/Works/Balsamine?action=imgtpl&G=12&upname=Balsamine_1316139743142.png" target="_blank"> - Identité du théatre de la balsamine</a> par OSP</p> 
   </header>  
 </div>
 
