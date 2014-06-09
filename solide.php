@@ -62,7 +62,7 @@
 
 <p>Les médias imprimés étant figés par l'impression au moment de la production, ce sont des médias solides: «dès qu'ils sont produits, ils sont solides». Dans le cas d'Internet, quand je regarde un site, je ne vois finalement que la capture d'écran d'un média en changement constant. Et Gilles de Brock se pose cette question : «Si Internet n'a pas d'état solide, dans quel état se trouve t-il ? Dans un état liquide ?»[2] Ainsi, les informations sur Internet arrivent sous forme d'un flux constant de contenu. Selon Gilles de Brock, Internet est un média liquide dans le sens où il n'a jamais de formes fixes. «La comparaison entre le solide et le liquide est très pertinente quand nous parlons Internet. Internet ne connaît pas la solidité que nous avons connue dans les médias jusqu'à présent. Internet ne sent aucune friction lorsqu'il est déplacé: il passe d'un bout du monde à l'autre en une fraction de seconde.»[3]</p>
 
-<aside>[2] et [3] Gilles de Brock, <em>Liquid design</em>, <u>http://www.ofluxo.net/liquid-design-the-new-public-space-by-gilles-de-brock/</u> «But if internet knows no solid state which state does it have then? Maybe liquid?»<br/>
+<aside>[2] et [3] Gilles de Brock, <a href="http://www.ofluxo.net/liquid-design-the-new-public-space-by-gilles-de-brock/" target="_blank">Liquid design</a>, «But if internet knows no solid state which state does it have then? Maybe liquid?»<br/>
 «The comparison between solid and liquid is highly relevant when we are talking about internet. The internet doesn’t know the solidness as we have known in media up to now. The internet does not feel any friction when being moved: it flows from one side of the world towards the other in a fraction of a second.»
 </aside>
 
@@ -92,7 +92,8 @@
 
 <aside>[6] Zygmunt Bauman, Liquid Modernity, Cambridge, 2000
 «fluids do not keep to any shape for long and are constantly ready (and prone) to change it; and so for them it is the flow of time that counts, more than the space they happen to occupy: that space, after all, they fill but ‘for a moment’.»<br/>
-[7] Responsive web design <u>http://fr.wikipedia.org/wiki/Site_web_adaptatif</u> </aside>
+[7] <a href="http://fr.wikipedia.org/wiki/Site_web_adaptatif" target="_blank">Responsive web design</a>
+</aside>
 
 <img src="img/Ilund.png" alt="Ilund" />
 <h7> Jonas Lund, <em>What You See Is What You Get</em>, site internet </h7>
@@ -116,7 +117,7 @@
 <p>D'autre part, si le contenu peut évoluer dans le temps, l'espace de visualisations peut lui aussi changer en fonction des appareils (du Smartphone à l'ordinateur). Comme défini précédemment, l'espace d'Internet est un espace <em>responsive</em>, il s'adapte à l'ensemble des écrans. Ainsi, la composition graphique doit envisager plusieurs espaces et s'adapter à des formats verticaux, horizontaux, carrés, larges ou étroits. Il s'agit du <em>responsive design</em>, le designer crée une forme capable de se décliner en fonction des écrans. Le graphiste étant habitué à composer ses créations dans un espace prédéfini, l'évolution aléatoire des espaces transforme son travail. Aujourd'hui le métier de graphiste est en mutation, le designer compose désormais des formes sur un espace mouvant.</p>
 
 <img src="img/Iresponsive.png" alt="Iresponsive" />
-<h7> Nir Avigad, Détournement créatif de la fonction de site responsive: le visage change en fonction de la taille de l'écran. <u>http://niravigad.com/responsive_man/</u>
+<h7> Nir Avigad, Détournement créatif de la fonction de site responsive: le visage change en fonction de la taille de l'écran. <a href="http://niravigad.com/responsive_man/" target="_blank">Lien vers le site</a> 
 </h7>
 
 <h4>c. Création de formes fluides et de systèmes adaptatifs</h4>
@@ -126,7 +127,7 @@
 <p>Ainsi, par système adaptatif, j'entends une création qui passe par des logiques qui définissent le comportement des éléments en fonction de leur nature (image, texte, légende). Il ne s'agit plus de positionner des formes les unes en fonction des autres mais de définir des actions pour chaque élément de même nature. De ce fait, je ne fige pas les éléments, je leur donne au contraire un mouvement, une action. J'illustre cette idée en m’appuyant sur le site <em>Il tempo del postino</em> sur lequel j'ai travaillé avec les graphistes du studio Metahaven. En effet, nous n'avons pas créé des compositions, nous avons créé des règles correspondant à chaque élément. Les textes, par exemple, apparaissent en superposition située à la moitié de la fenêtre du navigateur, les titres sont toujours en bas à gauche, les vidéos et les menus sont centrés. De cette manière le site Internet se compose à partir des <em>régles du jeu</em>. Ainsi, pour être cohérent sur Internet, le graphiste crée des logiques visuelles fluides qu'il ne compose pas solidement.</p>
 
 <img src="img/Imthvn.png" alt="Imthvn" />
-<h7>Metahaven, <em>Il tempo del postino</em>, site Internet </h7>
+<h7>Metahaven, <a href="http://iltempodelpostino.com/" target="_blank">Il tempo del postino</a>, site Internet </h7>
   </div>  <!-- fin .chap-inner -->
   </div>    
 
@@ -150,7 +151,8 @@
 <p>Historiquement, le mouvement du libre s'est scindé en deux groupes: le FreeSoftware (Richard Stallman) et l'open source (Linus Trovalds). Pour la Free Software Fondation (FSF) la notion de libre est avant tout une recherche d'émancipation sociale, pour l'open source les intérêts sont plus centrés sur la performance technologique. Le terme F/LOSS (Free Libre Open Source Software) permet de regrouper sous un seul terme les deux groupes qui malgré des philosophies divergentes recherchent la même logique de développement.</p>
 
 <aside>[1] Richard M. Stallman,  <em>Free Software, Free Society : Selected Essays</em>,  2002<br/>
-[2] : Les quatre libertés qui définissent un logiciel libre GNU Project &ndash; Free Software Foundation. <u>www.gnu.org/philosophy/free-sw.fr.html</u> </aside>
+[2] : Les quatre libertés qui définissent un logiciel libre GNU Project &ndash; Free Software Foundation.
+<a href="www.gnu.org/philosophy/free-sw.fr.html" target="_blank">Free Software Foundation</a> </aside>
 
 <img src="img/OSglossy.png" alt="OSglossy" class="imgborder"/>
 <h7> Image de la présentation de studio de graphisme Manufactura Independante au LGM  / jeu de mot en F/LOSS et G/LOSSY </h7>
@@ -233,7 +235,8 @@
 
 <p>Par exemple, le groupe OSP qui se définit comme une caravane de créateurs (typographes, graphistes, développeurs, mathématiciens, écrivains, artistes) est un studio de création qui produit du design graphique en utilisant uniquement des outils libres et des logiciels open source. Ils définissent ces outils comme : «logiciels qui invitent les utilisateurs à prendre part à leur élaboration»[10] Pour OSP, le logiciel joue un rôle dans le processus créatif et le collectif cherche à trouver comment les outils numériques pourraient devenir des éléments créatifs dans le processus de conception. Au lieu de renoncer, par facilité, au code informatique, ils préfèrent intégrer cette dimension dans leur production. Ils ont réalisé, par exemple, l'ensemble de l'identité graphique du <em>théâtre la balsamine</em> à Brussels en utilisant uniquement des outils libres et le code informatique. Ils ont, notamment, généré informatiquement le programme du théâtre. Le travail génératif (produit par le code informatique) fait désormais partie de leurs étapes de création. Il s'agit d'un calque supplémentaire qui mérite d'être traité avec autant de qualité que le traînement de l'impression ou du façonnage.</p>
 
-<aside>[10]: OSP, «pieces of software that invite their users to take part in their elaboration» <u>http://osp.constantvzw.org/about</u> </aside>
+<aside>[10]: OSP, «pieces of software that invite their users to take part in their elaboration»
+<a href="http://osp.constantvzw.org/about" target="_blank"> Site de OSP </a> </aside>
 
 <img src="img/OSbalsamine.png" alt="Balsamine" />
 <h7> Programme du Théatre de la Balsamine, réalisé par OSP &ndash; mise en page générée par le code informatique</h7>
@@ -252,7 +255,7 @@
 
 <p>Femke Snelting, du groupe OSP (Open Source Publishing), explique que posséder des logiciels ce n'est pas la même chose que les <em>maitriser</em>: «les logiciels propriétaires réduisent notre rôle à celui d'utilisateur en bout de chaine ou au rôle de consommateur ; avec les logiciels libres nous sommes potentiellement les co-developpeurs et ce point fait toute la différence.»[13] C'est une forme de valorisation qui ne passe pas par des logiques de profils mais par une économie de la connaissance qui transforme l'usager en contributeur.</p>
 
-<aside>[13]: OSP, <em>Why should fonts be free software?</em>, <u>http://goo.gl/n4nRKI</u> «Proprietary software restricts our role to &lsquo;end users&rsquo; or consumers of software; in Free Software we are potentially co-developers and that makes a difference.» </aside>
+<aside>[13]: OSP, <a href="http://goo.gl/n4nRKI" target="_blank">Why should fonts be free software?</a>, «Proprietary software restricts our role to &lsquo;end users&rsquo; or consumers of software; in Free Software we are potentially co-developers and that makes a difference.» </aside>
 
 <img src="img/OSadobe2.png" alt="diversite" />
 <h7> Image réalisée par le graphiste Anthony Masure pour souligner le caractère absurde des logiciels adobe: «effet pointilliste» </h7>
@@ -260,7 +263,7 @@
 <p>Dans <em>Le langage des Nouveaux Médias</em>, Lev Manovich observe que la création par des logiciels se fait sous l'angle d'une «logique de sélection». Ainsi, nous utilisons des menus prédéfinis dans lequel le nombre de sélections est limité: si nous avons le choix entre 10 tracés nous ne pouvons pas en avoir un 11ème. Anthony Masure nous explique dans son article <em>Adobe, le créatif au pouvoir</em>, que le travail du créateur réside, précisément, dans le fait d'agir différemment, or les logiciels propriétaires n'autorisent pas la différence. «Là où Adobe pense en termes de solutions, le designer crée de la divergence dans des systèmes techniques ou réflexifs. C’est parado&shy;xalement en ouvrant et en se jouant de la résistance de l’idée à la forme que le designer peut construire son autonomie. C’est dans cette nécessaire liberté qu’un pouvoir pourrait s’exercer.»[14] La graphiste Loretta Staples pense que ces programmes créent «un espace[&hellip;] où la facilité d'utilisation prend le pas sur notre autorité d'auteur.»[15] D'autre part Erik Van Blokland évoque l'illusion d'une exhaustivité qui résiderait dans l'idée que «tout peut être fait en utilisant un menu déroulant et une barre d'outils».[16]</p>
 
 <aside>
-[14] Anthony Masure, <em>Adobe: le créatif au pouvoir</em> , 2011 <u>http://www.anthonymasure.com/articles/adobe-creatif-pouvoir</u><br/>
+[14] Anthony Masure, <a href="http://www.anthonymasure.com/articles/adobe-creatif-pouvoir" target="_blank">Adobe: le créatif au pouvoir</a>, 2011 <br/>
 [15] Loretta Staples, _ What happens when the edges dissolve?<em>
 «The new computer-generated environment[&hellip;] is a space[&hellip;] where user-friendliness overrides the authority of the author.» Eye Magazine no 18, automne 1995<br/>
 [16] David Crow, </em>Magic box: craft and the computer_
@@ -286,7 +289,7 @@ Eye Magazine no70, hiver 2008 «The illusion of completeness[&hellip;] The idea 
 
 <p>Le design fluide s'inspire de la culture libre, par l'expérimentation d'un part et par la diffusion libre d'autre part. Cette ouverture d'accès entraine une organisation participative ou collaborative. Nous étudierons la relation entre contribution et création dans la partie suivante.</p>
 
-<aside>[18]: OSP, <em>Why should fonts be free software?</em>, <u>http://goo.gl/n4nRKI</u> «As designers we are interested in a culture that favors exchange over property, because we understand that creativity relies on the inspiration by others and we feel more at ease with tools that are produced with the same idea in mind.»  </aside>
+<aside>[18]: OSP, <a href="http://goo.gl/n4nRKI" target="_blank">Why should fonts be free software?</a>, «As designers we are interested in a culture that favors exchange over property, because we understand that creativity relies on the inspiration by others and we feel more at ease with tools that are produced with the same idea in mind.»  </aside>
   </div>  <!-- fin .chap-inner -->
   </div>
      
@@ -300,7 +303,7 @@ Eye Magazine no70, hiver 2008 «The illusion of completeness[&hellip;] The idea 
 
 <p>En se basant sur des fondements participatifs, l'économie collaborative cherche à produire de la valeur en commun. Les citoyens s'organisent en <em>réseau</em> ou en <em>communautés</em> grâce à une mutualisation des espaces et des outils et prennent des décisions de manière horizontale. En effet, les organisations collaboratives rompent avec les systèmes hiérar&shy;chiques pour favoriser des échanges transversaux. «Il n’y a plus dissociation des producteurs et des consommateurs, mais association des destinataires et des destinateurs produisant une nouvelle forme de socialité et un nouvel esprit du capitalisme.»[1]</p>
 
-<aside>[1] Bernard Stiegler, <em>Individuation</em>, <u>http://arsindustrialis.org/individuation</u> </aside>
+<aside>[1] Bernard Stiegler, <a href="http://arsindustrialis.org/individuation" target="_blank">Individuation</a>,</aside>
 
 <p>Le champs d'activité des organisations collaboratives est vaste: il comprend des systèmes de consommation participative (AMAP: Association pour le Maintien d'une Agriculture Paysanne), des hébergements collaboratifs (Couchsurfing, Airbnb), le coworking, le covoiturage, des modes de vie collaboratifs (habitat collectif), le crowdfounding (financement participatif), le bitcoin (banque collective), mais aussi des productions contributives (Do It Yourself, Fablab, Imprimante 3D) et la culture Libre (open source, voir Point 2).</p> <br/>
 
@@ -310,7 +313,7 @@ Eye Magazine no70, hiver 2008 «The illusion of completeness[&hellip;] The idea 
 
 <p>Fondé sur la consommation, le système économique actuel est devenu archaïque et en contradiction avec les nouveaux enjeux de société. Comme la crise économique le démontre, ce système consumériste, hérité du 20<sup>ème</sup> siècle, est désormais obsolète. Bernard Stiegler affirme que 80% des américains en ont marre de la société de consommation qui est, selon lui, reconnue comme «dangereuse». De ce fait, il affirme que le passage à une économie contributive est une mutation indispensable pour nos sociétés. Effectivement, il souhaite que l'on «dépasse le modèle consumériste devenu fondamentalement toxique et aliénant.»[2]</p>
 
-<aside>[2] Bernard Stiegler, <em>Interview en ligne</em>, <u>http://www.fondation-macif.org/bernard-stiegler-les-gens-consomment-plus-parce-quils-idealisent-de-moins-en-moins</u> </aside>
+<aside>[2] Bernard Stiegler, <a href="http://www.fondation-macif.org/bernard-stiegler-les-gens-consomment-plus-parce-quils-idealisent-de-moins-en-moins" target="_blank">Interview en ligne</a> </aside>
 
 <p>Ainsi, l'économie contributive fondée sur des échanges collaboratifs s'impose comme une alternative au capitalisme actuel. Cette idée encourage une refonte complète des projets politiques et économiques par l'adoption des modèles contributifs. Par exemple, les <em>smartgrids</em>, distribution intelligente de l'électricité supportée par des technologies informatiques, sont une alternative contributive à la surconsommation d'énergie. En effet, sous la forme d'un réseau d'électricité qui connecte directement les producteurs et le consommateur, il est possible de réguler la production, la distribution et la consommation pour éviter la surproduction d'énergie.</p><br/>
 
@@ -331,7 +334,7 @@ Eye Magazine no70, hiver 2008 «The illusion of completeness[&hellip;] The idea 
 
 <p>Le concept de perte d'individuation a été introduit par Gilbert Simondon pour définir la perte du savoir-faire de l'ouvrier face à la machine-outil au 19<sup>ème</sup> siècle. Bernard Stiegler explique que aujourd'hui c'est la société de consommation qui prive les individus de leur singularité. Comme la société industrielle a automatisé le travail entrainant la perte du savoir faire, la société de consommation a automatisé le savoir vivre entrainant la perte de l'individuation. «Désormais, c'est le consommateur qui est standardisé dans ses comportements par le formatage et la fabrication artificielle de ses désirs. Il y perd ses savoir-vivre, c'est-à-dire ses possibilités d'exister.»[5] Les groupes marketing et les publicités nous inculquent ce que nous voulons porter, manger, acheter. En existant dans des modes, des styles de consommation, nous nous définissions en fonction d'un groupe social et peu en tant qu'Individu.</p>
 
-<aside>[5]: Bernard Stiegler, <em>Le désir asphyxié, ou comment l'industrie culturelle détruit l'individu</em>, article sur Le Monde diplomatique, Juin 2004 <u>http://www.monde-diplomatique.fr/2004/06/STIEGLER/11261</u> </aside>
+<aside>[5]: Bernard Stiegler, <a href="http://www.monde-diplomatique.fr/2004/06/STIEGLER/11261" target="_blank">Le désir asphyxié, ou comment l'industrie culturelle détruit l'individu</a>, article sur Le Monde diplomatique, Juin 2004 </aside>
 
 <h4>b. La contribution passe par la réflexivité</h4>
 
@@ -341,7 +344,7 @@ Eye Magazine no70, hiver 2008 «The illusion of completeness[&hellip;] The idea 
 
 <p>Pour Bernard Stiegler et Irit Rogoff, la contribution permettrait l’individuation. Ils définissent cette individuation par le groupe comme <em>trans&shy;individuation</em> et <em>co-individuation</em>. En contribuant à des projets collectifs, chaque contributeur définit individuellement son action entrainant la définition de sa singularité. À travers la co-indiviuation des <em>je</em>, se crée la <em>trans-individuation</em> du nous. «La trans-individuation est la trans-formation des je par le nous et du nous par le je.»[6] De ce fait, en collaborant ou en participant à une communauté les citoyens développent leur individuation. Mon intérêt pour l'économie contributive réside dans sa capacité à encourager le processus de singularité.</p>
 
-<aside>[6] Bernard Stiegler, <em>Transindividuation</em> sur Ars Industrialis <u>http://arsindustrialis.org/vocabulaire-ars-industrialis/transindividuation</u> </aside>
+<aside>[6] Bernard Stiegler, <a href="http://arsindustrialis.org/vocabulaire-ars-industrialis/transindividuation" target="_blank">Transindividuation</a> sur Ars Industrialis </aside>
 
 <h3>2.3. Git : un outil collaboratif</h3>
 
@@ -367,7 +370,7 @@ Eye Magazine no70, hiver 2008 «The illusion of completeness[&hellip;] The idea 
 
 <h4>b. Le <em>Fork</em>, illustration de la contribution</h4>
 
-<p>La seconde fonction spécifique de Git réside dans la possibilité de <em>forker</em>. Les projets en ligne sur Github étant principalement des projets libres où le code source est ouvert, la communauté entière peut contribuer par un système de <em>fork</em>. <em>Forker</em> un projet, c'est créer une déclinaison du projet initial donc se l'approprier, le modifier, le transformer. Lorsqu'un utilisateur <em>forke</em> le projet d'un autre, une nouvelle branche s'ajoute sur l'arborescence du projet initial : nouvelle ramification, un embranchement ou une fourche en français. L'utilisateur qui <em>forke</em> un projet devient le responsable de cette nouvelle ramification. La nouvelle branche est désormais à son nom mais en ayant pour référence le projet souche. Sur cet embranchement, l'utilisateur est libre de faire ce qu'il souhaite et il peut, ensuite, proposer en retour ses modifications au projet source. L'initiateur du projet d'origine est libre d'intégrer ou non les transformations apportées par le <em>fork</em>. S'il le fait, visuellement la branche est réintégrée au projet, elle modifie sa trajectoire sur l'arborescence pour fusionner avec la branche principale (dont elle est issue à l'origine). Si l'internaute du projet souche ne souhaite pas modifier son projet, la branche reste indépendante et libre d'être <em>forkée</em> par quelqu'un d'autre à son tour.</p>
+<p>La seconde fonction spécifique de Git réside dans la possibilité de <em>forker</em>. Les projets en ligne sur Github étant principalement des projets libres où le code source est ouvert, la communauté entière peut contribuer par un système de <em>fork</em>. <em>Forker</em> un projet, c'est créer une déclinaison du projet initial donc se l'approprier, le modifier, le transformer. Lorsqu'un utilisateur <em>forke</em> le projet d'un autre, une nouvelle branche s'ajoute sur l'arborescence du projet initial : nouvelle ramification, un embranchement ou une fourche en français. L'utilisateur qui <em>forke</em> un projet devient le responsable de cette nouvelle ramification. La nouvelle branche est désormais à son nom mais en ayant pour référence le projet souche. Sur cet embranchement, l'utilisateur est libre de faire ce qu'il souhaite et il peut, ensuite, proposer en retour ses modifications au projet source. L'initiateur du projet d'origine est libre d'intégrer ou non les transformations apportées par le <em>fork</em>. S'il le fait, visuellement la branche est réintégrée au projet, elle modifie sa trajectoire sur l'arborescence pour fusionner avec la branche principale (dont elle est issue à l'origine). Si l'internaute du projet souche ne souhaite pas modifier son projet, la branche reste indépendante et libre d'être <em>forkée</em> par quelqu'un d'austre à son tour.</p>
 
 <img src="img/Cfork.png" alt="fork" />
 <h7> Arborescence Github : schéma des <em>forks</em> </h7>
@@ -390,7 +393,7 @@ Eye Magazine no70, hiver 2008 «The illusion of completeness[&hellip;] The idea 
 
 <p>En premier lieu, je reviens sur les pratiques de créations qui utilisent le réseau Internet comme outil collaboratif. D'abord, les graphistes Kevin Donnot et Elise Gay ont utilisé l'activité des internautes (crowdsourcing) pour élaborer une typographie. Particip-a-type.co.cc est un site de création typographique participative en ligne. Chaque utilisateur dessine un caractère en modifiant le dessin de l'utilisateur précédent et son caractère sera lui même repris par l'internaute suivant. Une grille triangulaire a été créée pour donner une unité aux différentes typographies dessinées. Toutes les fontes dessinées sont ensuite téléchargeables.[11] De cette manière, le design fluide s'inspire de la philosophie collaborative d'Internet et tend à expérimenter et utiliser le potentiel du réseau dans la création.</p>
 
-<aside>[11] <u>http://www.e-k.fr/typo//gallerie.php</u> </aside>
+<aside>[11] <a href="http://www.e-k.fr/typo//gallerie.php" target="_blank">http://www.e-k.fr/typo//gallerie.php</a> </aside>
 
 <img src="img/Cparticiptype.png" alt="participtype" />
 <h7> Capture d'écran du site de création typographique participative : Particip-a-type.co.cc </h7>
@@ -417,8 +420,8 @@ Eye Magazine no70, hiver 2008 «The illusion of completeness[&hellip;] The idea 
 
 <img src="img/Ccolophon.png" alt="Ccolophon" /> <h7>Scan du colophon du livre <em>Transparence, Camouflage, Opacité</em> de Samuel Rivers-Moore</h7>
 
-<aside>[13] Eric Schrijver, <em>No one starts from scratch type design and the logic of the fork</em>, <u>http://I.liketightpant.net</u>
-[14] Eric Schrijver, <em>Cultural artefacts like typefaces, however, can more easily exist in an abundance of similar guises, because they coexist</em>, <u>http://I.liketightpant.net</u> </aside>
+<aside>[13] Eric Schrijver, <a href="http://i.liketightpants.net/and/no-one-starts-from-scratch-type-design-and-the-logic-of-the-fork" target="_blank">No one starts from scratch type design and the logic of the fork</a>, 
+[14] Eric Schrijver, "Cultural artefacts like typefaces, however, can more easily exist in an abundance of similar guises, because they coexist" </aside>
 
 <h4>b. Le <em>fork</em> comme outil de création</h4>
 
@@ -450,7 +453,7 @@ Eye Magazine no70, hiver 2008 «The illusion of completeness[&hellip;] The idea 
                   
 <p>De la même manière, les membres du studio de graphisme, Lafkon, propose, eux aussi, sur leur site un accès à leur <em>repository</em> Github. De ce fait, l'ensemble de leur production graphique est <em>forkable</em>. «Le référentiel forkable est un miroir en ligne de notre environnement de production. Il accueille tous nos projets à base de code, y compris les sources, les entrées et la documentation ».[15] Ainsi, Lafkon ou OSP sont les pionniers dans l'élaboration d'un écosystème participatif pour la création. Cette volonté d'amener l'esprit collaboratif propre au réseau Internet dans la création est, selon moi, une pratique riche et innovante qui est en accord avec les systèmes contemporains.</p>
 
-<aside>[15] LAFKON «The forkable repository is an online mirror of LAFKON&rsquo;s R&amp;D local production environment. It hosts all our code-based projects, including sources, inputs and documentation.» &ndash; <u>http://research.lafkon.net/projects/the-forkable-repository/</u> </aside>
+<aside>[15] LAFKON «The forkable repository is an online mirror of LAFKON&rsquo;s R&amp;D local production environment. It hosts all our code-based projects, including sources, inputs and documentation.», <a href= "http://research.lafkon.net/projects/the-forkable-repository/" target="_blank">forkable repository</a> </aside>
                   
 <img src="img/Cosp2.png" alt="Cosp2" /> <h7> Site Internet du studio OSP </h7>
 
@@ -485,7 +488,7 @@ Eye Magazine no70, hiver 2008 «The illusion of completeness[&hellip;] The idea 
 
 <p>Le <em>mème internet</em> est «un élément ou un phénomène repris et décliné en masse sur internet.»[5]  «Dans sa forme la plus sommaire, un <em>mème internet</em> est une idée simple propagée à travers le web. Cette idée peut prendre la forme d'un hyperlien, d'une vidéo, d'un site internet, d'un hashtag, d'un personnage récurrent ou simplement d'une phrase ou d'un mot. Ce <em>mème</em> peut être propagé par plusieurs personnes par le biais de réseaux sociaux, de blogs, de messageries instan&shy;tanées, d'actualité, et autres services internet.»[6]</p>
 
-<aside>[5] et[6]&ndash; Article wikipédia &ndash; Mème Internet, <u>http://fr.wikipedia.org/wiki/M%C3%A8me_Internet</u>
+<aside>[5] et [6] Article wikipédia <a href= "http://fr.wikipedia.org/wiki/M%C3%A8me_Internet" target="_blank">Mème Internet</a>
 </aside></p>
 
 <img src="img/Mcopypasta1.png" alt="Mcopypasta1" />
@@ -497,13 +500,6 @@ Eye Magazine no70, hiver 2008 «The illusion of completeness[&hellip;] The idea 
 <img src="img/Mcopypasta3.png" alt="Mcopypasta3" />
 <h7> Mème Internet: copypasta. Mème qui s'est developpé autour de la pratique du copier-coller qui vient de «copy» and «paste» en anglais. </h7>
 
-<!--
-<img src="img/Mcopypasta4.png" alt="Mcopypasta4" />
-<h7> Mème Internet: copypasta. </h7>
-
-<img src="img/Mcopypasta5.png" alt="Mcopypasta5¬" />
-<h7> Mème Internet: copypasta. </h7>
--->
 
 <h2>2. Pourquoi l'intelligence collective et le <em>mème internet</em> sont des enjeux pertinents ?</h2>
 
@@ -518,7 +514,7 @@ Eye Magazine no70, hiver 2008 «The illusion of completeness[&hellip;] The idea 
 
 <p>Ainsi, la notion de communication classique n'existe pas sur Internet. Si dans l'espace réel la circulation des informations passe par un circuit conventionnel: journalisme/écrit, graphisme, publication, maison de presse ; sur Internet ce schéma est explosé: il y a pas un seul système, il y a une multitudes de systèmes. En effet, l'information sur le web peut être produite par des journalistes professionnels, des amateurs ou par n'importe qui via un blog par exemple. Je soulignerais que sans créer un blog, nous publions déjà de l’information tous les jours: en écrivant un tweet, en postant une information sur Facebook ou en commentant une information sur n'importe quel site Internet. Tim O'Reilley explique que «les "cascades d’informations" retweetées propagent les flashs d’information à travers tout Twitter en un instant, ce qui en fait la première source de prise de connaissances de l’actualité pour de nombreuses personnes.»[9] Ainsi, si dans le monde réel nous n'avons jamais produit d'information publique, sur Internet nous le faisons constamment. La communication sur Internet ne passe plus uniquement par des canaux professionnels elle passe aussi par l'action des internautes. C'est la façon dont les internautes se réapproprient l'information qui est cruciale : la façon dont ils la copie, l'annote, la modifie, ce qu'ils en disent et à quel endroit.</p>
 
-<aside>[9]: Tim O'Reilley, <em>Web squared: Web 2.0 Five Years On</em>, 2009 &ndash; Traduction par Hubert Guillaud </aside>
+<aside>[9]: Tim O'Reilley, <em>Web squared: Web 2.0 Five Years On</em>, 2009, Traduction par Hubert Guillaud </aside>
 
 <p>Sur Internet, cette nouvelle communication communautaire anéantit le système classique dans lequel la position du graphiste était définie. Ainsi, si l'ordre a changé, si l'activité du graphiste ne se situe plus entre le contenu et la publication, comment penser la communication sur Internet ? En effet, le moteur de communication a changé, les institutions professionnelles ne sont plus les seuls vecteurs d'informations. La duplication par les internautes (copie, reblog, retweet, following, partage) est devenu le nouveau mécanisme de diffusion d'informations. De ce fait, la place du graphiste a évolué : comment communiquer des informations, comment rendre des connaissances intelligibles sur Internet ? Je considère que le graphiste doit prendre en compte le mécanisme de duplication insatiable d'Internet pour produire une communication visuelle adaptée.</p><br/>
 
@@ -526,7 +522,7 @@ Eye Magazine no70, hiver 2008 «The illusion of completeness[&hellip;] The idea 
 
 <p>D'abord, je souhaiterais faire un parallèle avec la <em>mémétique</em>, définie par Richard Dawkins en 1976 dans son livre le «Gène égoïste», puis reprise et étudiée par Susan Blackmore. De la même manière que la génétique étudie l'évolution des espèces, la mémétique est l'observation de l'évolution des informations et des cultures qui survivent ou se répandent par la sélection naturelle. La mémétique inclut la propagation, la mutation et l'extinction d’éléments de culture. Formulé par Richard Dawkins, la <em>mémétique</em> se base sur la notion de <em>mème</em> pour définir ce qui est imité. Elle reprend le principe de la théorie de l'évolution de Darwin et l'applique à des éléments de culture comme les codes culturels, les schémas informationnels, les comportements, &hellip; De la même manière que les espèces subissent une sélection naturelle dans leur milieu, les choses que nous imitons subissent elles aussi une sélection. Susan Blackmore explique qu'il y a mémétisme quand trois actions sont combinées: copie, variation et sélection. Elle affirme aussi que l'imitation entraine la création de <em>design</em> émergeant de nulle part. Et je voudrais souligner ce point, «toute information qui est modifiée et sélectionnée va produire de la création»[10]. De plus, elle explique comment la <em>mémétique</em> crée de l'intelligence : c'est en nous imitant que nous créons des comportements, des religions et notamment des langages.</p>
 
-<aside>[10]: Susan Blackmore, <em>Memes and «temes»</em>, TED talk, «any information that is varied and selected will produce design» </aside>
+<aside>[10]: Susan Blackmore, <a href= "http://www.ted.com/talks/susan_blackmore_on_memes_and_temes" target="_blank">Memes and «temes»</a>, TED talk, «any information that is varied and selected will produce design» </aside>
 
 <p>Si c'est en se copiant les uns les autres que les hommes ont développé des langages, nous pouvons penser qu'Internet en tant que lieu hautement mimétique est un espace qui crée un nouveau langage : un nouveau système de communication fondé sur la duplication. De la même manière que les espèces subissent les effets de la théorie de l'évolution, l'information est auto-sélectionnée par les mass-média, certaines informations perdurent pendant que d'autres s'éteignent.</p><br/>
 
@@ -576,9 +572,9 @@ En revanche, l'auteur explique qu’Internet, en tant qu'espace d'interaction et
 <p>Selon Metahaven, «L'action politique au 21ème siècle a dépassé le manifeste. Pour atteindre une taille critique, il déploie de nouvelles stratégies avec des propriétés virales et des compétences de survie darwinienne».[20] Si l'action politique a dépassé l'affiche politique, est-ce que le design graphique pourrait suivre la même évolution ? Nous pouvons envisager que la diffusion des mèmes utilisés pour des idées politiques soit plus largement reprise par le graphisme comme système de propagation culturelle. Je souhaiterais que la viralité et la propagation soit l'essence du graphisme de demain: du design fluide. En suivant l'extrême fluidité des mèmes, le design graphique peut rentrer littéralement dans le cyberespace et se laisser ballotter au gré des courants. Jenniffer Allen explique qu' «il semblerait que Walter Benjamin avait tord de penser que la reproduction allait conduire à la perte de l'aura» [21], effectivement, «les travaux gagnent en importance plus ils sont reproduits et vus, aujourd'hui la reproduction digitale comprend aussi la post-production, la critique (like, dislike), les commentaires et les retweets.»[22] Désormais, la reproduction digitale engendre la propagation.</p>
 
 <aside>[20] Metahaven, <em>Can Jokes Bring Down Government, Memes, Design and Politics</em>, 2010 &ndash; «Political action in the 21st century has moved beyond the manifesto. To achieve scale, it is deploying new strategies with viral properties and Darwinian survival skills.»
-[21] et [22] Jennifer Allen, <em>True Blue or the work of images in the age of digital reproduction</em>, 2013
+[21] et [22] Jennifer Allen, <a href= "http://moussemagazine.it/articolo.mm?id=1111" target="_blank">True Blue or the work of images in the age of digital reproduction</a>, 2013
 «It seems that Benjamin was wrong about reproduction leading to the loss of the aura»
-«Works once gained importance the more they were reproduced and seen, today digital reproducibility also implies post-production, critique (like, dislike), comments, retweets&hellip;», <u>http://moussemagazine.it/articolo.mm?id=1111</u> </aside>
+«Works once gained importance the more they were reproduced and seen, today digital reproducibility also implies post-production, critique (like, dislike), comments, retweets&hellip;»,  </aside>
 
 <img src="img/Mfreezer.png" alt="Mfreezer" />
 <h7> Mème Internet, <em>Heads in the freezer</em>.</h7>
@@ -599,7 +595,7 @@ Bien qu'elles soient indépendantes elles forment un tout. Si nous recherchons d
 
 <p>«On parle de «biens communs» chaque fois qu’une communauté de personnes est unie par le même désir de prendre soin d’une ressource collective ou d’en créer une et qu’elle s’auto-organise sur un mode participatif et démocratique pour la mettre au service de l’intérêt général. L’eau, l’air, les forêts ainsi que les océans et autres ressources naturelles; une langue, un paysage, un code source informatique, une œuvre ou un édifice passés dans le domaine public, tous peuvent être traités comme des biens communs et la liste n’est pas exhaustive.»[1]</p>
 
-<aside>[1] Définition sur le site Remix the Commons <u>http://www.remixthecommons.org/a-propos/</u> </aside>
+<aside>[1] <a href= "http://www.remixthecommons.org/a-propos/" target="_blank">Définition sur le site Remix the Commons</a> </aside>
 
 <img src="img/BCstealing.png" alt="BCstealing" />
 <h7> Page du magazine Emigre, numéro 58, été 2001 </h7>  
@@ -614,13 +610,12 @@ Bien qu'elles soient indépendantes elles forment un tout. Si nous recherchons d
 
 <p>Or, le droit actuel condamne cette activité : le fait de copier numériquement des œuvres est illégal. Il existe un conflit entre le partage généralisé sur Internet et le droit d'auteur. Le bloggeur et auteur de science-fiction, Cory Doctorow, est fermement opposé à cette interdiction du partage, il «pense que nous vivons dans un espace où toutes les choses peuvent exister sous forme de bit.» il «pense que les bits existent pour être copiés. Par conséquent,[il] pense que tout modèle qui fonctionne sur le fait que vos bits ne soient pas copiés est juste stupide».[2]</p>
 
-<aside>[2] Cory Doctorow, «I believe that we live in an era where anything that can be expressed as bits will be. I believe that bits exist to be copied. Therefore, I believe that any business-model that depends on your bits not being copied is just dumb.»
-<u>http://craphound.com/bio.php</u> </aside>
+<aside>[2] Cory Doctorow, «I believe that we live in an era where anything that can be expressed as bits will be. I believe that bits exist to be copied. Therefore, I believe that any business-model that depends on your bits not being copied is just dumb.» <a href= "http://craphound.com/bio.php" target="_blank">Lien</a> </aside>
 
 <p>Par ailleurs, Internet est décrit par Lawrence Lessig comme «l'un des plus importants biens communs de l'innovation»[3]. Pour Lionel Maurel cette «guerre contre le partage»[4] est une mise en danger d'Internet en tant que bien commun. Selon lui, interdire les échanges entre les internautes revient à les priver d'un droit. Le juriste Lawrence Lessig est convaincu que la force d'Internet réside dans cette capacité de partage entre tous les individus et il écrit en 2004 qu'il craint que «le monde du copier-coller qui définit Internet aujourd'hui devienne le monde du obtenir l'autorisation de copier-coller ce qui est un cauchemar pour les créateurs.»[5] En effet, selon lui, la copie et le partage ne nuisent pas à la création mais au contraire l'encourage. Il explique qu'Internet a permis d'élargir les outils numériques et ainsi d'ouvrir l'horizon créatif. «Nous construisons une technologie (&hellip;) qui permet de mixer des images en mouvement et des sons, y ajoute un espace de commentaires et la possibilité de propager cette créativité partout. Mais nous construisons aussi des lois qui interdisent cette technologie.»[6] Ainsi, je remarque qu'Internet présente des potentiels de création que le droit n'a pas considérés. Si la nature des biens culturels a évolué, le droit lui reste inchangé. J'expliquerai dans le paragraphe suivant les mutations opérées par le numérique sur la création.</p>
 
 <aside>[3] Lawrence Lessig <em>L'avenir des idées: Le sort des biens communs à l'heure des réseaux numériques</em>, 2005<br/>
-[4] Lionel Maurel, <em>Le P2P, la culture libre et le mouvement des Communs</em>, Vidéo, <u>http://www.remixthecommons.org/?fiche=le-p2p-la-culture-libre-et-le-mouvement-des-communs-avec-lionel-maurel</u><br/>
+[4] Lionel Maurel, <a href= "http://www.remixthecommons.org/?fiche=le-p2p-la-culture-libre-et-le-mouvement-des-communs-avec-lionel-maurel" target="_blank">Le P2P, la culture libre et le mouvement des Communs</a>, Vidéo <br/>
 [5] et[6] Lawrence Lessig, <em>Free Culture, How Big Data Uses technology And The Law To Lock Down Culture And Control Creativity</em>, 2005, «The “cut and paste” world that defines the Internet today will become a “get permission to cut and paste” world that is a creator’s nightmare.»<br/>
 «We’re building a technology that takes the magic of Kodak, mixes moving images and sound, and adds a space for commentary and an opportunity to spread that creativity everywhere. But we’re building the law to close down that technology.» </aside>
 
@@ -632,12 +627,11 @@ Bien qu'elles soient indépendantes elles forment un tout. Si nous recherchons d
 
 <p>Eric Watier explique, d'autre part, que le téléchargement ne prive personne, il ne retire aucun objet. Au contraire, il en crée un supplémentaire. «Il provoque la réactualisation d’un objet par l’édition d’un objet supplémentaire».[11]. L'industrie parle de vol là où il s'agit de production supplémentaire, de copie. Et l'auteur pose une question essentielle: «Comment penser l’économie d’un objet si sa consommation n’est plus son épuisement mais sa prolifération ?»[12].</p>
 
-<aside>[7]à[12]  Eric Watier, <em>L'œuvre discrète</em>, 2007 <u>http://www.ericwatier.info/textes/loeuvre-discrete/</u>
-</aside></p>
+<aside>[7]à[12]  Eric Watier, <a href= "http://www.ericwatier.info/textes/loeuvre-discrete/" target="_blank">L'œuvre discrète</a>, 2007</aside>
 
 <p>De la même manière, Serge Soudoplatoff explique que «quand on partage un bien matériel il se divise, je prends une pizza je la divise en quatre chacun a un quart de pizza. Quand on partage un bien immatériel, il se multiplie.»[13] De ce fait, le numérique a opéré un changement frontal et profond sur la nature des biens culturels. Impactés par l'économie de l'abondance, les biens culturels ont perdu la notion d'originale et donc d'unicité. Or, le contexte juridique nie cette évolution en essayant de recréer de la rareté sur un système qui est celui de l'abondance.</p>
 
-<aside>[13] Serge Soudoplatoff, <em>Les vraies ruptures d'Internet</em>, <u>http://www.fabriquedesens.net/Les-vraies-ruptures-d-Internet-par</u> </aside>
+<aside>[13] Serge Soudoplatoff, <a href= "http://www.fabriquedesens.net/Les-vraies-ruptures-d-Internet-par" target="_blank">Les vraies ruptures d'Internet</a> </aside>
 
 <p>Le copyright tel qu'il est envisagé actuellement ne prend pas en compte la logique d'Internet et son économie de l'abondance. «L’époque actuelle nous oblige à repenser et à reformuler la notion de plagiat. Sa fonction a trop longtemps été dévaluée par une idéologie qui n’a plus sa place dans la techno-culture» explique Olivier Blondeau et il ajoute: «il est temps de nous servir ouvertement et audacieusement de la méthodologie de la recombinatoire[remix], histoire d’être mieux en accord avec la technologie de notre temps.»[14] En effet, nous pouvons observer l'émergence d'alternatives au droit d'auteur classique. Je présenterai, par la suite, les nouveaux enjeux et une sélection d'alternatives pertinentes.
 <aside>
@@ -653,7 +647,7 @@ Bien qu'elles soient indépendantes elles forment un tout. Si nous recherchons d
 
 <p>En effet, si une œuvre numérique n'a pas d'original, elle a cependant une origine: «c'est une œuvre qui peut être sans autorité mais jamais sans auteur.» Lawrence Lessig souhaite rendre l'exercice du droit d'auteur plus flexible et facile, pour permettre «à la création de se propager»[16] Si les images sont documentées et que les auteurs sont mentionnés comme étant à l'origine de la création, il me semble que les créateurs seront plus enclins à voir leur travail circuler librement sur Internet.</p>
 
-<aside>[16] Lawrence Lessig, <em>Free Culture, How Big Data Uses technology And The Law To Lock Down Culture And Control Creativity</em>, 2005, «To make it easier for authors and creators to exercise their rights more     flexibly and cheaply. That difference, we believe, will enable creativity to spread more easily.» </aside>
+<aside>[16] Lawrence Lessig, <em>Free Culture, How Big Data Uses technology And The Law To Lock Down Culture And Control Creativity</em>, 2005, «To make it easier for authors and creators to exercise their rights more flexibly and cheaply. That difference, we believe, will enable creativity to spread more easily.» </aside>
 
 <img src="img/BCschema.png" alt="BCschema" />
 <h7>Pierre-André Mangolte, <em>Le sens des migrations du code, d’un système de licence à l’autre</em> </h7>
@@ -665,11 +659,11 @@ Bien qu'elles soient indépendantes elles forment un tout. Si nous recherchons d
 <p>Dans un premier temps j'aborderai la notion de copyleft comme étant une alternative au copyright. Représenté par un «c» à l'envers, elle propose une vision renversée du copyright grâce à des licences plus souples. Le copyleft est une notion qui découle du mouvement de <em>l'open source</em>. De ce fait, elle se fonde sur les quatre règles du «libre» (utiliser, copier, modifier et redistribuer), «une licence <em>copyleft</em> utilise le copyright pour assurer que toute personne qui reçoit une copie ou une version dérivée d’une œuvre peut utiliser, modifier et redistribuer, non seulement l’œuvre mais toutes les versions dérivées de l’œuvre. Ainsi, d’un point de vue non juridique, le <em>copyleft</em> est l’opposé du copyright».[17] Le <em>copyleft</em> est une autorisation donnée par l'auteur de réutiliser, modifier, distribuer son travail, à une condition, que les redistributions se fassent, elles aussi, sous <em>copyleft</em>. De ce fait, il n'y a pas d'évolution possible vers une restriction des droits. "La licence libre se “propage” avec l’œuvre, dans ses différentes incarnations et évolutions.»[18] Le travail original est par le <em>copyleft</em> un bien commun et il le reste grâce à la licence. Lawrence Lessig explique, dans <em>L'avenir des idées</em>, l'importance des ressources libres et des biens communs ; «les ressources libres ont toujours été un élément clé de l'innovation».[19]  «Il estime que le «partage légal» et la «réutilisation» de la propriété intellectuelle sont des bienfaits pour la société."</p>
 
 <aside>[17] Définition Wikipédia &ndash; copyleft<br/>
-[18] Cyril Fievet, <em>Creative commons le copyleft en action</em>,Internet Actu, 2004, <u>http://www.internetactu.net/2004/11/18/creative-commons-le-copyleft-en-action/</u><br/>
+[18] Cyril Fievet, <a href= "http://www.internetactu.net/2004/11/18/creative-commons-le-copyleft-en-action/" target="_blank">Creative commons le copyleft en action</a>,Internet Actu, 2004<br/>
 [19] Lawrence Lessig <em>L'avenir des idées: Le sort des biens communs à l'heure des réseaux numériques</em>, 2005 </aside>
 
 <img src="img/BCvideo1.png" alt="BCvideo1" />
-<h7> Brett Gaylor, <em>Rip! A Remix Manifesto</em>, vidéo, <u>http://www.remixthecommons.org/?fiche=rip-a-remix-manifesto</u></h7>
+<h7> Brett Gaylor, <a href= "http://www.remixthecommons.org/?fiche=rip-a-remix-manifesto" target="_blank">Rip! A Remix Manifesto</a>, vidéo </h7>
 
 <h3>3.2. Les licences <em>Creative commons</em></h3>
 
@@ -686,7 +680,7 @@ En utilisant les licences <em>Creative Commons</em>, Kristine Alexanderson, a di
 <aside>[21] Termes sur le site web officiel des creatives commons, <u>http://creativecommons.fr/</u> </aside>
 
 <img src="img/BCvideo2.png" alt="BCvideo2" />
-<h7> Brett Gaylor, <em>Rip! A Remix Manifesto</em>, vidéo, <u>http://www.remixthecommons.org/?fiche=rip-a-remix-manifesto</u></h7>
+<h7> Brett Gaylor, <a href= "http://www.remixthecommons.org/?fiche=rip-a-remix-manifesto" target="_blank">Rip! A Remix Manifesto</a>, vidéo</h7>
 
 <h3>3.3. Permettre aux créateurs de profiter d'Internet en toute légalité</h3>
 
@@ -729,16 +723,15 @@ En utilisant les licences <em>Creative Commons</em>, Kristine Alexanderson, a di
 
 <p>Comme un atome ou une cellule, une donnée est une part indivisible, elle est la plus petite entité d'information. Le contenu (page web, texte, &hellip;) que nous consultons en ligne est composé de données : l'information est scindée en une myriade de datas. Ainsi, nous sommes en train d'aller vers un «monde des données», elles deviennent l'essence de la communication et de la connaissance. Tim Berners Lee explique les évolutions d'Internet : le Web 1.0 était une plateforme pour documents, le web 2.0 est un espace pour les individus et le web 3.0 sera une plateforme pour les données.« Les données sont partout, sous forme d’énormes répertoires de données produisant elles-mêmes leurs propres données, car la façon même dont nous interrogeons ces données devient elle-même source de données.»[2] Cette multitude de datas liquides produit un océan informationnel fluide. L’extrême fluidité des corps informationnels transforme la façon dont circule l'information. En modifiant notre accès à la connaissance, de nouveaux systèmes apparaissent dans des domaines divers comme le journalisme, le marketing, la politique, la science. Tim O'Reilly affirme que si le web 2.0 est un web qui a utilisé l'intelligence collective des internautes, le web de demain sera un web qui va utiliser l'intelligence collective des données et des capteurs. «L'univers de l'information de demain sera assurément un web de données» [3] conclut Frank van Harmelen.</p>
 
-<aside>[2] Hubert Guillaud, <em>Vers un nouveau monde de données</em>, 2012
-<u>http://www.internetactu.net/2012/06/01/vers-un-nouveau-monde-de-donnees/</u><br/>
-[3] Frank van Harmelen, <u>http://www.cs.vu.nl/~frankh/</u></aside>
+<aside>[2] Hubert Guillaud, <a href= "http://www.internetactu.net/2012/06/01/vers-un-nouveau-monde-de-donnees/" target="_blank">Vers un nouveau monde de données</a>, 2012<br/>
+[3] <a href= "http://www.cs.vu.nl/~frankh/" target="_blank">Frank van Harmelen</a></aside>
 <br/>
 
 <h4>b. Le web sémantique est dans sa phase Lego</h4>
 
 <p>Fondé sur la connexion des données entre elles, le web sémantique permettrait de changer la façon dont nous consultons l'information. En 15 ans le web sémantique s'est développé ; or, s'il existe aujourd'hui des applications sémantiques, son utilisation est encore faible. Par exemple, Google combine des systèmes de recherches sémantiques avec son outil actuel pour mieux identifier les informations et affiche sur certains moteurs de recherche des réponses directes. D'autre part, <em>dbPedia</em> est une communauté qui s'occupe d'organiser les informations de Wikipédia en données <em>compatibles</em> avec le web sémantique. Le mathématicien Richard Baraniuk décrit le web sémantique comme étant dans sa phase <em>Lego</em>[4] . Actuellement, il est composé de nombreuses pièces capables de se combiner entre elles, cependant la phase d'assemblage n'est pas encore produite. Comme l'explique Richard Baraniuk, le potentiel du web sémantique naitra du montage des pièces entre elles.</p>
 
-<aside>[4] Richard Baraniuk, <em>The birth of the open source learning revolution</em>, Conférence TED,<u>http://www.ted.com/talks/richard_baraniuk_on_open_source_learning</u> </aside>
+<aside>[4] Richard Baraniuk, <a href= "http://www.ted.com/talks/richard_baraniuk_on_open_source_learning" target="_blank">The birth of the open source learning revolution</a> Conférence TED </aside>
 
 <img src="img/WSlinkeddata.png" alt="WSlinkeddata" />
 <h7> Diagramme : Linked Open Data</h7>
@@ -747,18 +740,18 @@ En utilisant les licences <em>Creative Commons</em>, Kristine Alexanderson, a di
 
 <p>Lors d’une conférence Ted, l'inventeur du web: Tim Berners-Lee, explique l'importance du contenu sous la forme de données. Ainsi, il constate que nous avons déjà mis toutes nos connaissances sur Internet: «tout ce qu'on peut imaginer est virtuellement sur Internet»[5]. L'important étant les relations entre les données, Tim Berners-Lee s'interroge sur ce qu'il se passerait si nous réussissions à les faire dialoguer. Une nouvelle forme de savoir pourrait probablement émerger des connexions et des liens entre elles. Aujourd'hui, les pages web sont liées entre elles par des hyperliens. Le but de la sémantique serait de connecter les données qui sont au sein des documents. Actuellement, un lien renvoie à une page web, un lien sémantique connecterait deux (ou plusieurs) idées entre elles. “Nous allons d’un web de documents connectés à un web de données connectées”[6], explique Nova Spivack. Ce sont les liens, les relations entre les données qui créent de l'intelligence. Ainsi, pour reprendre la métaphore du <em>Lego</em>, les potentiels du web sémantique viennent de l'assemblage des pièces entres elles. Pour assurer l'évolution du web vers un web sémantisé, les acteurs principaux se mettent d'accord sur des technologies pour amorcer cette conversion : les Sets Data sont des bases de données sémantiques. Ainsi, le web sémantique ne cherche pas à proposer un nouveau web, il s'agit de «rajouter une couche de signification au-dessus du web existant.»[7] Son but est de lier les données entre elles pour qu'elles soient utilisables par les ordinateurs et ainsi utiles aux gens.</p>
 
-<aside>[5] Tim Berners-Lee, <em>The next web</em>, Conférence TED, <u>http://www.ted.com/talks/tim_berners_lee_on_the_next_web</u><br/>
-[6] Nova Spivack, <em>Radar Networks</em>, Minding the planet, 2007, <u>http://www.novaspivack.com/technology/web-3-0-roundup-radar-networks-powerset-metaweb-and-others</u><br/>
+<aside>[5] Tim Berners-Lee, <a href= "http://www.ted.com/talks/tim_berners_lee_on_the_next_web" target="_blank">The next web</a>, Conférence TED,<br/>
+[6] Nova Spivack, <a href= "http://www.novaspivack.com/technology/web-3-0-roundup-radar-networks-powerset-metaweb-and-others" target="_blank">Radar Networks</a>, Minding the planet, 2007, <br/>
 [7] Pierre Levy, <em>L'intelligence collective</em>, Place de la toile, France culture 15 fev 2014 
                   
 </aside> 
   
   
 <img src="img/WSlinkeddata-1.png" alt="WSlinkeddata1" />
-<h7>Europeana, <em>Linked open data Europeana video</em>, 2012, <u>http://en.wikipedia.org/wiki/Linked_data</u></h7>
+<h7>Europeana, <a href= "http://en.wikipedia.org/wiki/Linked_data" target="_blank">Linked open data Europeana video</a>, 2012 </h7>
 
 <img src="img/WSlinkeddata-2.png" alt="WSlinkeddata3" />
-<h7>Europeana, <em>Linked open data Europeana video</em>, 2012, <u>http://en.wikipedia.org/wiki/Linked_data</u></h7>
+<h7>Europeana, <a href= "http://en.wikipedia.org/wiki/Linked_data" target="_blank">Linked open data Europeana video</a>, 2012 </h7>
 
 <h4>d. Rendre le web compréhensible par les machines</h4>
 
@@ -779,8 +772,8 @@ Le but du web sémantique est de faire comprendre le sens des mots aux machines.
 
 <p>Si nous arrivons à rendre intelligible pour les ordinateurs le contenu qui est sur Internet, grâce à la puissance de calcul, cela permettra une démultiplication des potentiels de connaissance. Tim Berners-Lee explique que nous sommes à l'aube d'une potentielle révolution du savoir. De la même manière que <em>Wikipédia</em> a transformé le champ des connaissances, le web sémantique peut augmenter le savoir humain. «Nous entrevoyons déjà une économie de l'information irriguée par l'interconnexion universelle et le traitement ubiquitaire d'énorme flots de données.»[8] Dans l'article <em>The Hillis Knowledge Web</em>, Daniel Hillis parle du web sémantique en utilisant le terme de <em>Web des connaissances</em>. Il évoque une <em>database</em> qui hébergerait tout le savoir humain, un réservoir de connaissances lisible par les ordinateurs. «Si les humain pouvaient mutualiser leurs connaissances dans une base de données lisible par les ordinateurs, alors les ordinateurs pourraient présenter ces connaissances aux humains dans le temps, le lieu et le format qui serait le plus utile pour eux.[9] » Selon l'auteur, le <em>knowledge web</em> nous rendra plus intelligent.</p>
 
-<aside> [8] Pierre Levy, <em>Ieml et les écosystèmes d'idées</em>,  <u>http://pierrelevyblog.com/2014/02/03/causerie-debat-sur-ieml-et-les-ecosystemes-didees/</u> <br/>
-[9] W. Daniel Hillis, <em>The Hillis Knowledge Web</em>, 2010, <u>http://edge.org/conversation/the-hillis-knowledge-web</u> 
+<aside> [8] Pierre Levy, <a href= "http://pierrelevyblog.com/2014/02/03/causerie-debat-sur-ieml-et-les-ecosystemes-didees/" target="_blank">Ieml et les écosystèmes d'idées</a><br/>
+[9] W. Daniel Hillis, <a href= "http://edge.org/conversation/the-hillis-knowledge-web" target="_blank">The Hillis Knowledge Web</a>, 2010 
 </aside>
 
 <h4>b. Un écosystème d'idées</h4>
@@ -797,9 +790,8 @@ Le but du web sémantique est de faire comprendre le sens des mots aux machines.
 
 <p>«L'explosion dont il est question concerne la bascule des contenus d'un site web d'une internalité à une externalité. Au lieu qu'un site web soit un «lieu» dans lequel les données «sont» et vers lequel d'autres sites «renvoient», un site web sera une source de données qui seront elles-mêmes dans de nombreuses bases de données externes, dont celle de Google (GoogleBase). Pourquoi alors «aller» sur un site web quand tout son contenu a déjà été absorbé et remixé dans un flux de données collectif (&lsquo;collective datastream&rsquo;).»[11] De ce fait, l'information ne sera plus nécessairement sur un site Internet, organisée dans une boite. Elle existera en tant que telle de manière volatile. «Les données étaient autrefois enfermées, comme des fleurs dans des serres. Ce que l’on propose ici, c’est de les faire pousser en plein air, de façon à ce qu’une multitude d’abeilles non seulement se chargent de la pollinisation pour le compte des fleuristes, mais qu’on puisse créer du miel et la profession d’apiculteur».[12] Les frontières solides entre les sites Internet vont se dissoudre pour donner naissance à un espace unique fluide et liquide. Cette transformation de l'accès aux informations change la façon dont le graphiste peut organiser visuellement les connaissances et les idées. L'information existant de manière fluide dans un océan de données, le graphiste doit désormais, composer avec une masse liquide en changement constant.</p>
 
-<aside>[11] Olivier Ertzscheid, <em>Möbius, le web 2.0 et Darwin</em>, 2005, <u>http://affordance.typepad.com/mon_weblog/2005/11/moebius_le_web.html</u>
-  
-[12] Fabrice Epelboin, <em>Des données et des liens: le début de quelque chose de grand</em>, 2009, <u>http://streisand.trollab.org/fr.readwriteweb.com/2009/06/28/prospective/des-donnes-des-liens-dbut-de-quelque-chose-de-grand/index.html</u> </aside>
+<aside>[11] Olivier Ertzscheid, <a href= "http://affordance.typepad.com/mon_weblog/2005/11/moebius_le_web.html" target="_blank">Möbius, le web 2.0 et Darwin</a>, 2005</br>  
+[12] Fabrice Epelboin, <a href= "http://streisand.trollab.org/fr.readwriteweb.com/2009/06/28/prospective/des-donnes-des-liens-dbut-de-quelque-chose-de-grand/index.html" target="_blank">Des données et des liens: le début de quelque chose de grand</a>, 2009 </aside>
 
 <p>Par ailleurs, les informations se recomposeront selon des recherches spécifiques. Faire une recherche ressemblera à tirer sur un fil qui activera une relation en chaine entre les différentes données. «Sur l'action de tirer se fondera la prochaine mutation. Certain l'appelle le Web 3.0 ; d'autre le web sémantique. Il s'agit d'une transition fondamentale qui passe de l'action de pousser à celle de tirer de l'information, en utilisant une nouvelle façon de penser et de collaborer en ligne.»[13] Ainsi le contenu sera essentiellement sous formes de flux de données. L'information, hébergée dans des bases de données, se créera dynamiquement en fonction d'une requête. Généré en fonction de la navigation, le design fluide devient un design fugitif qui se métamorphose en une infinité de forme pour s'adapter à toutes les situations. Le designer fluide compose des formes instables, des formes fuyantes.</p>
 
@@ -812,7 +804,7 @@ Le but du web sémantique est de faire comprendre le sens des mots aux machines.
 
 <p>Avec le web sémantique, les choses tendent à s'inverser : si le contenu est fluide, qu'il n'est plus hébergé dans des documents fixes comment créer des architectures adaptées ? Comment créer une forme sans en connaitre le contenu ? Habituellement le design graphique étudie le contenu en amont et produit une forme graphique en cohérence avec ce contenu. Le designer fluide qui compose avec une matière en changement constant, crée des formes étirables capables de s’adapter à toutes les natures de formes. De ce fait, le contenu disparait derrière l'architecture, c'est le dispositif qui dicte le contenu.</p>
 
-<aside>[14] Hubert Guillard, <em>Vers le web implicite</em>, 2007 <u>http://www.internetactu.net/2007/07/06/vers-le-web-implicite/</u> </aside>
+<aside>[14] Hubert Guillard, <a href= "http://www.internetactu.net/2007/07/06/vers-le-web-implicite/" target="_blank">Vers le web implicite</a>, 2007  </aside>
 
   </div>  <!-- fin .chap-inner -->
   </div>
@@ -843,8 +835,8 @@ Les modes d'exploitation peuvent être le fait des individus eux-mêmes par rech
 
 <aside>
 [2] Adam Greenfield, <em>Les matières du Design</em>, conférence, 2007<br>
-[3] Alex Iskold, <em>The Implicit Web: Last.fm, Amazon, Google, Attention Trust</em>, Read/Write Web, 2007, <u>http://readwrite.com/2007/06/12/the_implicit_ web_lastfm_amazon_google#awesm=~oE9y2hNxLyzWl4</u><br>
-[4] Hubert Guillaud, <em>Le monde des données</em>, publie.net, 2011, <u>http://librairie.publie.net/fr/ebook/9782814505063/ un-monde-de-donnees</u> </aside>
+[3] Alex Iskold, <a href= "http://readwrite.com/2007/06/12/the_implicit_ web_lastfm_amazon_google#awesm=~oE9y2hNxLyzWl4" target="_blank">The Implicit Web: Last.fm, Amazon, Google, Attention Trust</a>, Read/Write Web, 2007 <br>
+[4] Hubert Guillaud, <a href= "http://librairie.publie.net/fr/ebook/9782814505063/ un-monde-de-donnees" target="_blank">Le monde des données</a>, publie.net, 2011 </aside>
 
 <h4>b.  Un média subjectif</h4>
 
@@ -855,7 +847,7 @@ Les modes d'exploitation peuvent être le fait des individus eux-mêmes par rech
 <p>Le web implicite est proche de la vision de Vannevar Bush lorsqu'il évoque la notion de sentiers, chemins («trails») qui dessinent la navigation d'un internaute. Pour lui, ce qui compte c'est notre parcours, notre chemin ; il affirme que ce parcours serait aussi important que le lien lui-même. Pierre Levy évoque l'idée de «dessiner (&hellip;) des chemins de navigation dans l'océan des données»[5]. Si le chemin a de l'importance c'est que l'activité subconsciente de l'utilisateur a de l'importance. C'est son activité dans le temps, son parcours inconscient qui donne du sens. “Nous sommes donc passés d’une toute puissance du lien hypertexte, point nécessairement nodal de développement du réseau et des services et outils associés, à une toute puissance du “parcours”, de la navigation “qui fait sens”, de la navigation “orientée” au double sens du terme"[6]. Ainsi le web implicite est proche des recherches de Vannevar Bush, «As we may think»: il fait un rapprochement entre la navigation et le fonctionnement du cerveau humain. Dans le web implicite, ce qui compte c'est le comportement, la progression d'un internaute sur Internet : le temps, les clics, les zones d'intérêts. L'activité mentale de la recherche et de la navigation n'a pas besoin d'être déclarative, elle est comprise implicitement par le navigateur.</p>
 
 <aside>[5] Pierre Levy, <em>Sphère sémantique Tome 1: Computation, cognition, économie de l'information</em>, 2011<br>
-[6] Olivier Ertzscheid,  <em>Le web implicite</em>, 2007, <u>http://affordance.typepad.com/ mon_weblog/2007/06/le-web-implicit.html</u></aside></p>
+[6] Olivier Ertzscheid, <a href= "http://affordance.typepad.com/ mon_weblog/2007/06/le-web-implicit.html" target="_blank">Le web implicite</a>, 2007</aside>
 
 <img src="img/Mwander1.png" alt="Mwander1" />
 <img src="img/Mwander2.png" alt="Mwander2" />
@@ -880,7 +872,7 @@ Les modes d'exploitation peuvent être le fait des individus eux-mêmes par rech
 
 <p>«Les menaces de cette société de la donnée est à la hauteur de leur puissance, de cette nouvelle compréhension de l’individu et de la société qu’elles impliquent. Nous sommes entrés dans un monde où notre vie privée est désormais en réseau.»[12] Comme Edward Snowden l'a révélé en 2013, le programme de surveillance de la NSA, <em>Prism</em>, collecte les données des citoyens en vue d'une exploitation maximale: analyse, traitement, comparaison, stockage. Dirk Helbing explique que les stocks de nos données sont plus graves qu'ils n'y paraissent.« À la surface les problèmes de <em>privacy</em> ne heurtent pas, un peu comme la radioactivité ce sont des conséquences à long termes.»[13] En se désintéressant du traitement de nos données personnelles, nous allons lentement vers un régime totalitaire ou l'ordinateur prend l'allure d’un dictateur. «Internet, le meilleur de nos instruments d'émancipation, est devenu le plus redoutable auxiliaire du totalitarisme qu'on ait jamais connu.»[14] Le fondateur de Wikileaks, Julian Assange affirme qu'Internet est désormais «une menace pour l'humanité.»[15] Ainsi, pendant que nous rêvons à un meilleur monde, certains &ndash; les entreprises, les autorités gouvernementales, les services secrets &ndash; ont déjà mis la main sur nos datas.</p>
 
-<aside>[12] Hubert Guillaud, <em>Vers un monde de données ?</em> Internet actu &ndash; <u>http://www.internetactu.net/2010/12/16/vers-un-monde-de-donnees/</u><br>
+<aside>[12] Hubert Guillaud, <a href= "http://www.internetactu.net/2010/12/16/vers-un-monde-de-donnees/" target="_blank">Vers un monde de données ?</a> Internet actu <br>
 [13] Interview with Dirk Helbing, <em>On the use of flawed formulas</em> dans le magazine White Noise, Abstrakt n12, 2013 / «On the surface, intrusions of privacy don&rsquo;t hurt. It&rsquo;s a bit like radioactivity, which we also don&rsquo;t feel or notice, but wich we all know that can have devastating long-term effects.»<br/>
 [14] et [15] Julian Assange, <em>Menace sur nos libertés privées. Comment Internet nous espionne. Comment résister</em>,2013 
 </aside>
@@ -890,7 +882,7 @@ Les modes d'exploitation peuvent être le fait des individus eux-mêmes par rech
 
 <p>La démocratie occidentale actuelle suppose un gouvernement ouvert et le respect de la vie privée. La confiance est un concept clé de la relation entre les entreprises, le gouvernement et les citoyens. La transparence est une extension de la notion de confiance. «Cependant, comme des dénonciateurs l'ont montré, les pratiques des gouvernements sont souvent cachées sous un voile de secret et/ou des intentions cachées.»[16] Les structures de pouvoir à motivation économique fondées sur des secrets et fonctionnements cachés ne correspondent pas au principe démocratique humain et aux possibilités offertes par Internet comme l'auto-organisation ou le partage de l'information.</p>
 
-<aside>[16] Metahaven, <em>Black Transparency</em>, 2013 &ndash; <u>http://www.bureau-europa.nl/en/manifestations/black_transparency _the_right_to_know_ in_the_age_of_mass_surveillance/</u> </aside>
+<aside>[16] Metahaven, <a href= "http://www.bureau-europa.nl/en/manifestations/black_transparency _the_right_to_know_ in_the_age_of_mass_surveillance/" target="_blank">Black Transparency</a>, 2013 </aside>
 
 <p>D'autre part, Julien Assange et Jacob Appelbaum soulignent, dans <em>Menaces sur nos vies privés</em>, la collecte des données organisée par des entreprises privées: «Il existe aussi une surveillance privée et la possibilité d'une collecte massive de données par le secteur privé. Il n'y qu'à regarder Google.»[17] Si la surveillance par les états a toujours existé, les smartphones sont devenus les mouchards les plus puissants jamais inventés. Constamment avec nous, notre utilisation des smartphones est très personnelle: nous envoyons des photos via Snapchat, nous nous déplaçons via  Google Maps, nous consultons toutes sortes de choses via des applications. Or chacune de ces actions produit des métadonnées. En déversant nos identités en ligne via un flux d'activité implicite, chaque utilisateur, sur Internet, projette une <em>ombre informationnelle</em>, un nuage de données de nos actions en ligne. En connaissant nos déplacements, le contenu que nous consultons en ligne, la fréquence, ainsi que nos échanges personnels par photo, messages privés, mails, les entreprises peuvent obtenir rapidement un portrait-robot de notre personnalité (cartographie de nos envies de consommation ou de nos prochains actes criminels).</p>
 
@@ -902,8 +894,8 @@ Les modes d'exploitation peuvent être le fait des individus eux-mêmes par rech
 <p>Si nous ne pouvons endiguer la production de données, nous pouvons cependant lutter pour récupérer les droits sur ces données. Aujourd'hui nous produisons des données dont nous ne sommes pas propriétaires. Ce que nous consommons en ligne est souvent gratuit, nos données personnelles sont le produit implicite de ces services. «C'est vous le produit»[18]. Jason Fitzpatrick explique que «si vous ne payez pas, vous n'êtes pas le consommateur, vous êtes le produit en vente»[19]. Ainsi, l'enjeu principal réside dans notre capacité à reprendre possession de nos données. Avec Internet les enjeux ont changé, la <em>Quadrature du Net</em> milite pour renforcer le droit et pour l'adapter à l'ère du numérique et ainsi protéger nos vies privées. «Plutôt que de se plier à des intérêts privés, il est essentiel que les législateurs obligent les entreprises à davantage de transparence et de responsabilité pour la protection de nos données et interdisent les abus.»[20]</p>
 
 <aside>[18] Mike Elgan proposa en 2009 la formule suivant: «YOU are the product» dans Datamation<br>
-[19] Jason Fitzpatrick, <em>If You&rsquo;re Not Paying for It; You&rsquo;re the Product</em>, Lifehacker, 2010, <u>http://lifehacker.com/5697167/if-youre-not-paying-for-it-youre-the-product</u><br>
-[20] Quadrature du net, <em>Vie privée</em> &ndash; <u>http://www.laquadrature.net/fr/Vie_privee</u> </aside>
+[19] Jason Fitzpatrick, <a href= "http://lifehacker.com/5697167/if-youre-not-paying-for-it-youre-the-product" target="_blank">If You&rsquo;re Not Paying for It; You&rsquo;re the Product</a>, Lifehacker, 2010<br>
+[20] Quadrature du net, <a href= "http://www.laquadrature.net/fr/Vie_privee" target="_blank">Vie privée</a> </aside>
 
 <h2>3. Comment les métadonnées et les données personnelles influencent le design ?</h2>
 
@@ -918,7 +910,7 @@ Les modes d'exploitation peuvent être le fait des individus eux-mêmes par rech
 
 <p>La collecte et l'utilisation des données personnelles restent aujourd'hui une menace pour la vie privée des internautes. Ainsi, nous pouvons envisager que le statut du designer puisse se rapprocher de l'activiste et ainsi dépasser la création de forme graphique pour chercher un engagement politique. C'est ce que poursuit le studio de graphistes <em>Metahaven</em> qui définissent leur pratique entre recherche et design. Ainsi, Daniel van der Velden et Vinca Kruk considèrent leur travail de designer sous la forme de critiques dans le sens où ils cherchent par leur production à refléter les implications politiques et sociales qui définissent notre société. «La structure d'Internet basée sur la transmission et l'imitation implique que les designers ne sont plus seulement capables de créer un message mais ils peuvent désormais jouer un rôle important dans les changements politiques et sociaux.»[21] Imprégné des questions de société, Metahaven a produit une série de projets engagés dans le maintien d'Internet comme espace de libertés fondé sur la neutralité ou la transparence. Sur ces questions, ils ont nourri un travail graphique et théorique, leur premier engagement a été en faveur de <em>Wikileaks</em> en produisant une identité graphique pour le mouvement. Plus récemment, ils ont organisé une exposition «Black Transparency : le droit de savoir à l'ère de la surveillance de masse»[22]. A travers des réalisations visuelles, des schémas, des vêtements, des vidéos, des interviews avec des militants, Metahaven a produit une recherche théorique et une production graphique sur les questions d'ambiguïté, de contradiction autour de la production et l'utilisation des données.</p>
 
-<aside>[21] Bureau Europa, <em>Black Transparency</em>, exposition, 2013 «The Internet as a superstructure of creation, transmission, and imitation, means designers are not only capable of creating a message but also to play an important role in catalysing political and social change.» <u>http://www.bureau-europa.nl/ en/manifestations/  black_transparency_the_right_to_know_ in_the_age_of_mass_surveillance/</u><br>
+<aside>[21] Bureau Europa, <a href= "http://www.bureau-europa.nl/en/manifestations/black_transparency_the_right_to_know_ in_the_age_of_mass_surveillance/" target="_blank">Black Transparency</a> exposition, 2013 «The Internet as a superstructure of creation, transmission, and imitation, means designers are not only capable of creating a message but also to play an important role in catalysing political and social change.»<br>
 [22] Metahaven, <em>Black Transparency: The right to know in the age of mass surveillance</em>, 2013 </aside>
 
 <img src="img/Mrealface.png" alt=" Mrealface" />
@@ -950,6 +942,7 @@ Les modes d'exploitation peuvent être le fait des individus eux-mêmes par rech
 <!-- Chapitre Conclusion -->
     
   <div class="chapitre" id="conclusion" data-cycle-hash="conclusion">
+  <div class="chap-inner">
 <h1>Conclusion</h1>
 <p>Qu'est-ce que le design fluide ? Le design fluide se fonde sur des formes, une pratique, une circulation, une création, une communication et une architecture fluides.</p><br/>
 
@@ -967,11 +960,13 @@ Les modes d'exploitation peuvent être le fait des individus eux-mêmes par rech
 
 <p>En m’appuyant sur des enjeux spécifiques, j'ai cherché dans ce mémoire à définir le portrait type du designer graphique de demain. Cet axe de recherche m'a permis d'élaborer le cahier des charges du designer fluide. Si mon choix est personnel, un autre graphiste peut se réapproprier ce protocole de recherche pour définir sa propre vision de la création. L'évolution permanente de la société nous oblige à réactualiser nos convictions et ainsi nous encourage à continuer de repenser le design. J'invite le lecteur, dans une logique collaborative, à poursuivre la réflexion sur la question du design fluide et à l'étendre aux autres champs de la création s’il le juge utile. Est-il possible d’imaginer son application aux objets ou à l'architecture ?
 Si j’ai été assez convaincante, le lecteur peut s'approprier le profil fluide que j'ai présenté et suivre tout ou partie des points étudiés dans ce mémoire. Je résume donc les points clés du design fluide dans un manifeste.</p><br/>
-  </div>
+    </div>
+    </div>
 
 <!-- Chapitre Manifeste -->
 
 <div class="chapitre" id="manifeste" data-cycle-hash="manifeste">
+<div class="chap-inner">
 
 <h1>Manifeste</h1>
 
@@ -992,7 +987,8 @@ Si j’ai été assez convaincante, le lecteur peut s'approprier le profil fluid
 <p>Le design fluide crée des architectures fluides : des structures malléables, liquides, capables de supporter toutes sortes de contenus</p><br/>
 
 <p>Le design fluide utilise les métadonnées pour produire une création aux formes potentiellement infinies et ainsi adopter les propriétés des fluides</p><br/>
-                  
+
+</div>
 </div>
 
 

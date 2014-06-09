@@ -1,12 +1,36 @@
+<!--
 <div class="bubble" id="b1">
-  <header><h3>OSP</h3><h2>Outils libres</h2>
-<p>Ainsi, par système adaptatif, j'entends une création qui passe par des logiques qui définissent le comportement des éléments en fonction de leur nature (image, texte, légende).</p> 
+  <header><h3><span class="cadre"><a href="#open-source">Open Source</a></span></h3><h2></h2>
+<p>Pour le <a href= "https://twitter.com/hashtag/designfluide?src=hash" target="_blank">#designfluide</a>, le code fait partie du processus créatif au même titre que l'impression #cssprint <a href= "http://stdin.fr/Works/Balsamine?action=imgtpl&G=12&upname=Balsamine_1316139743142.png" target="_blank">Identité du théatre de la balsamine</a> par OSP</p> 
   </header>
   <div class="inner">
     <p>
     </p>
   </div>
-  <footer><a href="#open-source">Open Source</a></footer>
+  <footer></footer>
+</div>
+-->
+
+<div class="bubble" id="b1">
+  <header>
+    <span class="lien-int"><a href="#open-source">Open Source</a></span>
+    <span class="modifier"><a href="#open-source">Modifier</a></span>
+    <span class="discussion"><a href="#open-source">Discussion</a></span>
+    <span class="partager"><a href="#open-source">Partager</a></span>
+<p>Pour le <a href= "https://twitter.com/hashtag/designfluide?src=hash" target="_blank">#designfluide</a>, le code fait partie du processus créatif au même titre que l'impression #cssprint <a href= "http://stdin.fr/Works/Balsamine?action=imgtpl&G=12&upname=Balsamine_1316139743142.png" target="_blank">Identité du théatre de la balsamine</a> par OSP</p> 
+  </header>  
+</div>
+
+
+<div class="bubble" id="b1">
+  <header><h3><span class="cadre"><a href="#open-source">Open Source</a></span></h3><h2></h2>
+<p>Pour le <a href= "https://twitter.com/hashtag/designfluide?src=hash" target="_blank">#designfluide</a>, le code fait partie du processus créatif au même titre que l'impression #cssprint <a href= "http://stdin.fr/Works/Balsamine?action=imgtpl&G=12&upname=Balsamine_1316139743142.png" target="_blank">Identité du théatre de la balsamine</a> par OSP</p> 
+  </header>
+  <div class="inner">
+    <p>
+    </p>
+  </div>
+  <footer></footer>
 </div>
 
 <div class="bubble" id="b2">

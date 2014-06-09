@@ -61,7 +61,7 @@ $(document).ready(function () {
 //  Fonction création d’une bulle
 
 
-var fallingDuration = 120000;
+var fallingDuration = 500000;
 
 var zindex = 10;
 
@@ -112,6 +112,6 @@ function callRandom(arr){
   var rand = Math.floor(Math.random() * arr.length) ;
   arr[rand]();
 }
-callRandom(arr)
+callRandom(b1())
 setInterval(function() { callRandom(arr) }, 20000);
 
