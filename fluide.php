@@ -136,9 +136,9 @@
 <div class="bubble" id="b13">
   <header>
     <span class="lien-int"><a href="#espace-internet">Espace d'Internet</a></span>
-    <span class="modifier"><a href="#open-source">Modifier</a></span>
+    <span class="modifier"><a target="_blank" href="https://pixlr.com/editor/?image=http://louisedrulhe.fr/designfluide/img/MEM_meme-couleur.png">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
-    <span class="partager"><a href="#open-source">Partager</a></span>  
+    <span class="partager"><a href="">Partager</a></span>  
 <img src="img/MEM_meme-couleur.png" alt="Ipuckey" class="imgborder" />
   </header>  
 </div>
@@ -146,7 +146,7 @@
 <div class="bubble" id="b14">
   <header>
     <span class="lien-int"><a href="#open-source">Open Source</a></span>
-    <span class="modifier"><a href="#open-source">Modifier</a></span>
+    <span class="modifier"><a target="_blank" href="https://pixlr.com/editor/?image=http://louisedrulhe.fr/designfluide/img/MEM_meme-couleur2.png">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
     <span class="partager"><a href="#open-source">Partager</a></span>  
 <img src="img/MEM_meme-couleur2.png" alt="Ipuckey" class="imgborder" />
@@ -156,7 +156,7 @@
 <div class="bubble" id="b15">
   <header>
     <span class="lien-int"><a href="#contribution">La contribution</a></span>
-    <span class="modifier"><a href="#open-source">Modifier</a></span>
+    <span class="modifier"><a target="_blank" href="https://pixlr.com/editor/?image=http://louisedrulhe.fr/designfluide/img/MEM_meme-couleur3.png">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
     <span class="partager"><a href="#open-source">Partager</a></span>  
 <img src="img/MEM_meme-couleur3.png" alt="Ipuckey" class="imgborder" />
@@ -166,7 +166,7 @@
 <div class="bubble" id="b16">
   <header>
     <span class="lien-int"><a href="#meme">Mème Internet</a></span>
-    <span class="modifier"><a href="#open-source">Modifier</a></span>
+    <span class="modifier"><a target="_blank" href="https://pixlr.com/editor/?image=http://louisedrulhe.fr/designfluide/img/MEM_meme-couleur4.png">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
     <span class="partager"><a href="#open-source">Partager</a></span>  
 <img src="img/MEM_meme-couleur4.png" alt="Ipuckey" class="imgborder" />
@@ -176,7 +176,7 @@
 <div class="bubble" id="b17">
   <header>
     <span class="lien-int"><a href="#biens-communs">Biens communs</a></span>
-    <span class="modifier"><a href="#open-source">Modifier</a></span>
+    <span class="modifier"><a target="_blank" href="https://pixlr.com/editor/?image=http://louisedrulhe.fr/designfluide/img/MEM_meme-couleur5.png">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
     <span class="partager"><a href="#open-source">Partager</a></span>  
 <img src="img/MEM_meme-couleur5.png" alt="Ipuckey" class="imgborder" />
@@ -186,7 +186,7 @@
 <div class="bubble" id="b18">
   <header>
     <span class="lien-int"><a href="#web-semantique">Web sémantique</a></span>
-    <span class="modifier"><a href="#open-source">Modifier</a></span>
+    <span class="modifier"><a target="_blank" href="https://pixlr.com/editor/?image=http://louisedrulhe.fr/designfluide/img/MEM_meme-couleur6.png">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
     <span class="partager"><a href="#open-source">Partager</a></span>  
 <img src="img/MEM_meme-couleur6.png" alt="Ipuckey" class="imgborder" />
@@ -196,7 +196,7 @@
 <div class="bubble" id="b19">
   <header>
     <span class="lien-int"><a href="#metadonnees">Métadonnées</a></span>
-    <span class="modifier"><a href="#open-source">Modifier</a></span>
+    <span class="modifier"><a target="_blank" href="https://pixlr.com/editor/?image=http://louisedrulhe.fr/designfluide/img/MEM_meme-couleur7.png">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
     <span class="partager"><a href="#open-source">Partager</a></span>  
 <img src="img/MEM_meme-couleur7.png" alt="Ipuckey" class="imgborder" />
