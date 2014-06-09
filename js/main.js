@@ -91,9 +91,9 @@ function b3(){ doBubble($("#b3"), 15, 20, 0, .9)};
 function b4(){ doBubble($("#b4"), 100, 12, 0, .9)};
 function b5(){ doBubble($("#b5"), 40, 9, 0, .9)};
 function b6(){ doBubble($("#b6"), 230, 50, 0, .9)};
-function b7(){ doBubble($("#b7"), 430, 10, 0, .9)};
+function b7(){ doBubble($("#b7"), 230, 10, 0, .9)};
 function b8(){ doBubble($("#b8"), 320, 20, 0, .9)};
-function b9(){ doBubble($("#b9"), 450, 66, 0, .9)};
+function b9(){ doBubble($("#b9"), 10, 66, 0, .9)};
 function b10(){ doBubble($("#b10"), 450, 74, 0, .9)};
 function b11(){ doBubble($("#b11"), 30, 100, 0, .9)};
 function b12(){ doBubble($("#b12"), 130, 10, 0, .9)};
@@ -112,6 +112,6 @@ function callRandom(arr){
   var rand = Math.floor(Math.random() * arr.length) ;
   arr[rand]();
 }
-callRandom(b1())
-setInterval(function() { callRandom(arr) }, 20000);
+callRandom(arr)
+setInterval(function() { callRandom(arr) }, 40000);
 

@@ -234,6 +234,7 @@ img{
   border-style: solid;
   border-width: 1px;
   border-color: black;
+  margin-bottom: 5px;
 
 }
 
@@ -297,7 +298,7 @@ aside u{
 #fluide .bubble{
 
   position:absolute;
-  padding:50px;
+  padding:50px 50px 75px 50px;
   display:none;
   opacity: 0;
   color:#00ff00;
@@ -380,7 +381,6 @@ aside u{
 .bubble p{
   color:#00ff00;
   margin-left:0px;
-  margin-bottom: 30px;
 }
 
 .cadre{
@@ -427,7 +427,8 @@ aside u{
   text-decoration: none;
   border-bottom: 2px solid #00ff00;
   left:15px;
-  bottom:30px;
+  bottom:35px;
+  margin-top: 30px;
 }
 
 .bubble .discussion a:hover{
@@ -441,7 +442,8 @@ aside u{
   text-decoration: none;
   border-bottom: 2px solid #00ff00;
   right:15px;
-  bottom:30px;
+  bottom:35px;
+  margin-top: 30px;
 }
 
 .bubble .partager a:hover{
@@ -476,55 +478,55 @@ aside u{
   width:500px;
 }
 .bubble#b3{
-  width:300px;
+  width:400px;
 }
 .bubble#b4{
   width:330px;
 }
 .bubble#b5{
-  width:250px;
+  width:450px;
 }
 .bubble#b6{
-  width:200px;
+  width:300px;
 }
 .bubble#b7{
-  width:200px;
+  width:300px;
 }
 .bubble#b8{
   width:200px;
 }
 .bubble#b9{
-  width:200px;
+  width:422px;
 }
 .bubble#b10{
   width:220px;
 }
 .bubble#b11{
-  width:230px;
+  width:330px;
 }
 .bubble#b12{
   width:270px;
 }
 .bubble#b13{
-  width:500px;
+  width:550px;
 }
 .bubble#b14{
-  width:500px;
+  width:550px;
 }
 .bubble#b15{
-  width:500px;
+  width:550px;
 }
 .bubble#b16{
-  width:500px;
+  width:550px;
 }
 .bubble#b17{
-  width:500px;
+  width:550px;
 }
 .bubble#b18{
-  width:500px;
+  width:550px;
 }
 .bubble#b19{
-  width:500px;
+  width:550px;
 }
 
 
