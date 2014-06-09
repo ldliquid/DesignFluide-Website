@@ -296,7 +296,6 @@ aside u{
 }
 
 #fluide .bubble{
-
   position:absolute;
   padding:50px 50px 75px 50px;
   display:none;
@@ -324,7 +323,6 @@ aside u{
   padding:2px;
 }
 
-
 #fluide .bubble-link{	
   background-color:yellow;
   color:grey;	
@@ -335,11 +333,34 @@ aside u{
   color:black;	
 }
 
-#fluide .bubble .inner{
+#fluide .bubble .comment{
   display:none;
+  margin-top:20px;
 }
 
-#fluide .bubble.opened .inner{
+#fluide .bubble .comment textarea{
+  width:80%;
+  height:90px;
+  background:black;
+  color:white;
+  border:0;
+  float:left;
+  padding:6px;
+}
+#fluide .bubble .comment button{
+  width:19%;
+  height:90px;
+  background:black;
+  color:white;
+  border:0;
+  float:right;
+}
+#fluide .bubble .comment button:hover{
+  background:#111;
+}
+
+
+#fluide .bubble.opened .comment{
   display:block;
 }
 
@@ -369,13 +390,11 @@ aside u{
 
 }
 
-
 .bubble h2{
   color:#00ff00;
   padding:3px;
   margin-left:30px;
   margin-top:4px;
-
 }
 
 .bubble p{
@@ -568,4 +587,50 @@ aside u{
 	top: 20px;
 	cursor:pointer;
 }
+
+
+/*PARTAGER*/
+
+
+.sharepopup{
+  background-color:#D3D3D3;
+  width:500px;
+  height:150px;
+  position:fixed;
+  padding:30px;
+  top:50%;
+  left:50%;
+  margin-top:-115px;
+  margin-left:-250px;
+  z-index:1000000;
+  text-align:center;
+}
+
+.sharepopup input{
+
+  border:0px;
+  width:100%;
+  
+}
+
+.sharepopup button{
+  margin:40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
