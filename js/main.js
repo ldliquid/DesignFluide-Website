@@ -81,7 +81,7 @@ function doBubble(bubble, posX, posY, angle, opacity){
             bubble.removeClass('shown').css('margin-top','0px');
           })
   };
-  //setTimeout(anim, 0);
+  setTimeout(anim, 0);
 }
 
 //  Création des bulles
