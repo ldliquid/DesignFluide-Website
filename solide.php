@@ -14,6 +14,7 @@
     data-cycle-speed= 50
     data-cycle-log= "false"
     >
+    
   <nav id="sommaire" class="chapitre" data-cycle-hash="sommaire">
   <div class="chap-inner">
   <a class="cred-link" href="#credits">Design Fluide</a>
@@ -21,6 +22,21 @@
     </ul>
   </div>  <!-- fin .chap-inner -->
   </nav>
+    
+<!-- About -->
+<!--
+<div id="about">
+About
+</div>
+
+
+<div id="fenetre1" class="fenetre">
+					  <img class="croix" src="img/croix.png" />
+						<p>About</p>
+</div>
+    
+-->
+    
     
 <!-- Chapitre Introduction -->
 
