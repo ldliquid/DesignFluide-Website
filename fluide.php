@@ -12,7 +12,6 @@
 -->
 
 <div class="bubble" id="b1">
-  
     <span class="lien-int"><a href="#open-source">Open Source</a></span>
     <span class="modifier"><a target="_blank" href="https://titanpad.com/designfluideb1">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
@@ -22,7 +21,6 @@
 </div>
 
 <div class="bubble" id="b2">
-  
     <span class="lien-int"><a href="#open-source">Open Source</a></span>
     <span class="modifier"><a target="_blank" href="https://titanpad.com/designfluideb2">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
@@ -32,7 +30,6 @@
 </div>
 
 <div class="bubble" id="b3">
-  
     <span class="lien-int"><a href="#espace-internet">Espace d'Internet</a></span>
     <span class="modifier"><a target="_blank" href="https://titanpad.com/designfluideb3">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
@@ -44,7 +41,6 @@
 </div>
 
 <div class="bubble" id="b4">
-  
     <span class="lien-int"><a href="#open-source">Open Source</a></span>
     <span class="modifier"><a target="_blank" href="https://titanpad.com/designfluideb4">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
@@ -54,7 +50,6 @@
 </div>
 
 <div class="bubble" id="b5">
-  
     <span class="lien-int"><a href="#biens-communs">Biens communs</a></span>
     <span class="modifier"><a target="_blank" href="https://titanpad.com/designfluideb5">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
@@ -64,7 +59,6 @@
 </div>
 
 <div class="bubble" id="b6">
-  
     <span class="lien-int"><a href="#open-source">Open Source</a></span>
     <span class="modifier"><a target="_blank" href="https://titanpad.com/designfluideb6">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
@@ -74,7 +68,6 @@
 </div>
 
 <div class="bubble" id="b7">
-  
     <span class="lien-int"><a href="#meme">Mème Internet</a></span>
     <span class="modifier"><a target="_blank" href="https://titanpad.com/designfluideb7">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
@@ -84,7 +77,6 @@
 </div>
 
 <div class="bubble" id="b8">
-  
     <span class="lien-int"><a href="#meme">Mème Internet</a></span>
     <span class="modifier"><a target="_blank" href="https://titanpad.com/designfluideb8">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
@@ -94,7 +86,6 @@
 </div>
 
 <div class="bubble" id="b9">
-  
     <span class="lien-int"><a href="#meme">Mème Internet</a></span>
     <span class="modifier"><a target="_blank" href="https://titanpad.com/designfluideb9">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
@@ -104,7 +95,6 @@
 </div>
 
 <div class="bubble" id="b10">
-  
     <span class="lien-int"><a href="#web-semantique">Web sémantique</a></span>
     <span class="modifier"><a target="_blank" href="https://titanpad.com/designfluideb10">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
@@ -114,7 +104,6 @@
 </div>
 
 <div class="bubble" id="b11">
-  
     <span class="lien-int"><a href="#web-semantique">Web sémantique</a></span>
     <span class="modifier"><a target="_blank" href="https://titanpad.com/designfluideb11">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
@@ -124,7 +113,6 @@
 </div>
 
 <div class="bubble" id="b12">
-  
     <span class="lien-int"><a href="#metadonnees">Métadonnées</a></span>
     <span class="modifier"><a target="_blank" href="https://titanpad.com/designfluideb12">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
@@ -134,7 +122,6 @@
 </div>
 
 <div class="bubble" id="b13">
-  
     <span class="lien-int"><a href="#espace-internet">Espace d'Internet</a></span>
     <span class="modifier"><a target="_blank" href="https://pixlr.com/editor/?image=http://louisedrulhe.fr/designfluide/img/MEM_meme-couleur.png">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
@@ -144,7 +131,6 @@
 </div>
 
 <div class="bubble" id="b14">
-  
     <span class="lien-int"><a href="#open-source">Open Source</a></span>
     <span class="modifier"><a target="_blank" href="https://pixlr.com/editor/?image=http://louisedrulhe.fr/designfluide/img/MEM_meme-couleur2.png">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
@@ -154,7 +140,6 @@
 </div>
 
 <div class="bubble" id="b15">
-  
     <span class="lien-int"><a href="#contribution">La contribution</a></span>
     <span class="modifier"><a target="_blank" href="https://pixlr.com/editor/?image=http://louisedrulhe.fr/designfluide/img/MEM_meme-couleur3.png">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
@@ -164,7 +149,6 @@
 </div>
 
 <div class="bubble" id="b16">
-  
     <span class="lien-int"><a href="#meme">Mème Internet</a></span>
     <span class="modifier"><a target="_blank" href="https://pixlr.com/editor/?image=http://louisedrulhe.fr/designfluide/img/MEM_meme-couleur4.png">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
@@ -174,7 +158,6 @@
 </div>
 
 <div class="bubble" id="b17">
-  
     <span class="lien-int"><a href="#biens-communs">Biens communs</a></span>
     <span class="modifier"><a target="_blank" href="https://pixlr.com/editor/?image=http://louisedrulhe.fr/designfluide/img/MEM_meme-couleur5.png">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
@@ -184,7 +167,6 @@
 </div>
 
 <div class="bubble" id="b18">
-  
     <span class="lien-int"><a href="#web-semantique">Web sémantique</a></span>
     <span class="modifier"><a target="_blank" href="https://pixlr.com/editor/?image=http://louisedrulhe.fr/designfluide/img/MEM_meme-couleur6.png">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
@@ -194,7 +176,6 @@
 </div>
   
 <div class="bubble" id="b19">
-  
     <span class="lien-int"><a href="#metadonnees">Métadonnées</a></span>
     <span class="modifier"><a target="_blank" href="https://pixlr.com/editor/?image=http://louisedrulhe.fr/designfluide/img/MEM_meme-couleur7.png">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>
@@ -204,7 +185,6 @@
 </div>
   
  <div class="bubble" id="b20">
-  
     <span class="lien-int"><a href="#open-source">Open Source</a></span>
     <span class="modifier"><a target="_blank" href="https://titanpad.com/designfluideb6">Modifier</a></span>
     <span class="discussion"><a href="#open-source">Discussion</a></span>

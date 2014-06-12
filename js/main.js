@@ -17,7 +17,7 @@ $('#fluide .bubble .comment button').click(function () {
 //  Liste des chapitre pour l’index
 
 $(document).ready(function () {
-  $("#solide h1").each(function (i) {
+  $("#solide h1").not('.donolist').each(function (i) {
     var current = $(this),
         currentID = current.parent('.chap-inner').parent('.chapitre').attr("id");
     current.attr("id", "title" + i);
@@ -46,8 +46,7 @@ $(document).ready(function () {
 
   // Affichager - masquer les plans
 
-  var chapButton =  $(".chapitre").children(".parts").children(".H1");
-
+  var chapButton =  $(".chapitre").not('.donolink').children(".parts").children(".H1");
   chapButton.click(function(){
     var parentChap = $(this).parent(".parts").parent(".chapitre");
     if (parentChap.hasClass("opened")){
@@ -82,7 +81,7 @@ function doBubble(bubble, posX, posY, angle, opacity){
             bubble.removeClass('shown').css('margin-top','0px');
           })
   };
-  setTimeout(anim, 0);
+  //setTimeout(anim, 0);
 }
 
 //  Création des bulles

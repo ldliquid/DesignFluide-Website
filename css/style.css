@@ -63,9 +63,6 @@ nav#bottom{
 
 /* FEUILLE DE STYLE SOLIDE */
 
-.cycle-slideshow{
-
-}
 #solide{
   background-color:#f2f2f2;
   min-height:100%;
@@ -94,6 +91,20 @@ nav#bottom{
   display:block;
 }
 
+#solide .cred-link{
+  color:red;
+  position: absolute;
+  top:0;
+  left: 0;
+  padding: 4px;
+  text-decoration:none;
+  cursor: help;
+}
+
+#solide .donolink .parts .H1{
+  color: grey;
+  cursor: default;
+}
 #solide h1, #solide .H1{
   margin-left:0px;
   color:red;
@@ -154,7 +165,7 @@ nav#bottom{
   display:none;
 }
 
-#solide .parts li.H1{
+#solide .parts .H1{
   display:block;
   cursor:pointer;
   display: inline;

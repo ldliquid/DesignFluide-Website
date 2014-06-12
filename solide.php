@@ -16,6 +16,7 @@
     >
   <nav id="sommaire" class="chapitre" data-cycle-hash="sommaire">
   <div class="chap-inner">
+  <a class="cred-link" href="#credits">Design Fluide</a>
     <ul>
     </ul>
   </div>  <!-- fin .chap-inner -->
@@ -23,7 +24,7 @@
     
 <!-- Chapitre Introduction -->
 
-<div class="chapitre" id="intro" data-cycle-hash="intro">
+<div class="chapitre donolink" id="intro" data-cycle-hash="intro">
   <div class="chap-inner">
     <h1>Introduction</h1>
 <p>«Changer l'espace, c'est changer notre relation au Monde et, par continuité, changer la société. Une relation systématique lie intimement espace et action, sans que l'un ou l'autre n'ait le privilège de l'initiative.» Boris Beaude</p><br/>
@@ -95,7 +96,7 @@
 [7] <a href="http://fr.wikipedia.org/wiki/Site_web_adaptatif" target="_blank">Responsive web design</a>
 </aside>
 
-<img src="img/Ilund.png" alt="Ilund" />
+<img src="img/Ilund.png" alt="Jonas Lund" />
 <h7> Jonas Lund, <em>What You See Is What You Get</em>, site internet </h7>
 
 <h2>3. Comment l'espace d'Internet influence le design graphique ?</h2>
@@ -941,7 +942,7 @@ Les modes d'exploitation peuvent être le fait des individus eux-mêmes par rech
     
 <!-- Chapitre Conclusion -->
     
-  <div class="chapitre" id="conclusion" data-cycle-hash="conclusion">
+  <div class="chapitre donolink" id="conclusion" data-cycle-hash="conclusion">
   <div class="chap-inner">
 <h1>Conclusion</h1>
 <p>Qu'est-ce que le design fluide ? Le design fluide se fonde sur des formes, une pratique, une circulation, une création, une communication et une architecture fluides.</p><br/>
@@ -965,32 +966,38 @@ Si j’ai été assez convaincante, le lecteur peut s'approprier le profil fluid
 
 <!-- Chapitre Manifeste -->
 
-<div class="chapitre" id="manifeste" data-cycle-hash="manifeste">
-<div class="chap-inner">
+<div class="chapitre donolink" id="manifeste" data-cycle-hash="manifeste">
+  <div class="chap-inner">
 
-<h1>Manifeste</h1>
+    <h1>Manifeste</h1>
 
-<p>Le design fluide crée des formes aux propriétés liquides capables de s'adapter à tous les supports</p><br/>
+    <p>Le design fluide crée des formes aux propriétés liquides capables de s'adapter à tous les supports</p><br/>
 
-<p>Le design fluide donne accès aux sources de sa création en vue de participer à l'élaboration d'un écosystème créatif</p><br/>
+    <p>Le design fluide donne accès aux sources de sa création en vue de participer à l'élaboration d'un écosystème créatif</p><br/>
 
-<p>Le design fluide utilise des licences libres pour encourager la libre circulation des connaissances et des créations</p><br/>
+    <p>Le design fluide utilise des licences libres pour encourager la libre circulation des connaissances et des créations</p><br/>
 
-<p>Le design fluide milite pour le maintien d'Internet en tant qu'espace de libertés notamment par l'utilisation d'outils libres ou par une production graphique engagée</p><br/>
+    <p>Le design fluide milite pour le maintien d'Internet en tant qu'espace de libertés notamment par l'utilisation d'outils libres ou par une production graphique engagée</p><br/>
 
-<p>Le design fluide subdivise sa création graphique sous forme de données en vue de s'infiltrer dans l'océan informationnel d'Internet</p><br/>
+    <p>Le design fluide subdivise sa création graphique sous forme de données en vue de s'infiltrer dans l'océan informationnel d'Internet</p><br/>
 
-<p>Le design fluide utilise la propagation comme système de communication</p><br/>
+    <p>Le design fluide utilise la propagation comme système de communication</p><br/>
 
-<p>Le design fluide utilise des outils sémantiques pour connecter les idées entre elles et encourager le potentiel cognitif du web des données</p><br/>
+    <p>Le design fluide utilise des outils sémantiques pour connecter les idées entre elles et encourager le potentiel cognitif du web des données</p><br/>
 
-<p>Le design fluide crée des architectures fluides : des structures malléables, liquides, capables de supporter toutes sortes de contenus</p><br/>
+    <p>Le design fluide crée des architectures fluides : des structures malléables, liquides, capables de supporter toutes sortes de contenus</p><br/>
 
-<p>Le design fluide utilise les métadonnées pour produire une création aux formes potentiellement infinies et ainsi adopter les propriétés des fluides</p><br/>
+    <p>Le design fluide utilise les métadonnées pour produire une création aux formes potentiellement infinies et ainsi adopter les propriétés des fluides</p><br/>
 
+  </div>
 </div>
-</div>
 
+<div class="chapitre donolink" id="credits" data-cycle-hash="credits">
+  <div class="chap-inner">
+    <h1 class="donolist">Design Fluide</h1>
+    <p>Site réalisé dansle cadre de…</p>
+  </div>
+</div>
 
 </div> <!-- Fin de la div .cycle-slideshow -->
 
