@@ -313,7 +313,11 @@ aside u{
   opacity: 0;
   color:#00ff00;
   width:300px;
-  background-image:linear-gradient(black, #00ff00);
+  background:linear-gradient(black, #00ff00);
+  background:-webkit-linear-gradient(black, #00ff00);
+  background:-moz-linear-gradient(black, #00ff00);
+  background:-o-linear-gradient(black, #00ff00);
+ 
   transform-origin: center;
   border-radius:0px;
   line-height: 125%;
@@ -559,8 +563,8 @@ aside u{
   width:550px;
 }
 
-#fenetre1{
-	border: 10px solid #CCC;  
+.sharepopup{
+  display: none;
 }
 
 /*About*/

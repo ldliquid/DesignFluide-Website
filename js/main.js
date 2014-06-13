@@ -136,15 +136,6 @@ $(".bubble").click(function(){
   /* Ouverture */ 
 
 
-$('#fenetre1').hide();
-$('.sharepopup').hide();
-
-$('#about').click(
-  function(){
-    $('#fenetre1').fadeIn();
-    return false;
-  }
-);
 $('.partager').click(
   function(){
     $('.sharepopup').fadeIn();

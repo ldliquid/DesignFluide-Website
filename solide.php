@@ -12,7 +12,7 @@
     data-cycle-prev=".prev"
     data-cycle-next=".next"
     data-cycle-speed= 50
-    data-cycle-log= "false"
+    data-cycle-log= false
     >
     
   <nav id="sommaire" class="chapitre" data-cycle-hash="sommaire">
